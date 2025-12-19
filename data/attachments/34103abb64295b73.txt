@@ -1,0 +1,8 @@
+08:19:04 | INFO | Creating clean context (No Auth)
+08:19:04 | INFO | Opening login page
+08:19:05 | ERROR | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+08:19:05 | INFO | ✓ Entering username
+08:19:05 | INFO | ✓ Entering password
+08:19:05 | INFO | ✓ Clicking login button
+08:19:07 | INFO | ✓ Verifying login success
+08:19:07 | INFO | Waiting for page to be loaded

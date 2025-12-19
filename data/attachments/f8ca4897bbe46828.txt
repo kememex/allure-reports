@@ -1,2 +1,0 @@
-07:58:20 | INFO | Opening login page
-07:58:21 | INFO | Waiting for page to be loaded

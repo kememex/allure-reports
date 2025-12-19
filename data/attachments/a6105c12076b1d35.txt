@@ -1,0 +1,1 @@
+08:19:37 | INFO | Auth state file removed after session

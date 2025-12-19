@@ -1,1 +1,0 @@
-07:58:37 | INFO | Opening login page

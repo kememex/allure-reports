@@ -1,0 +1,10 @@
+08:18:54 | INFO | Performing session-level authentication...
+08:18:54 | INFO | Opening login page
+08:18:56 | INFO | ✓ Entering username
+08:18:56 | INFO | ✓ Entering password
+08:18:56 | INFO | ✓ Clicking login button
+08:18:57 | INFO | ✓ Verifying login success
+08:18:57 | INFO | ✓ Authentication successful. State saved to state/auth_state.json
+08:18:58 | INFO | Opening login page
+08:18:59 | INFO | Navigating to links
+08:18:59 | INFO | Waiting for page to be loaded
