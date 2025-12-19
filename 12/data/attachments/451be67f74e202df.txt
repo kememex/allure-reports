@@ -1,0 +1,1 @@
+08:34:09 | INFO | ✓ Clicking login button
