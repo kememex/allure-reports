@@ -1,13 +1,11 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","120","test_password_hide_button_is_working[chromium]","tests","Fri Dec 19 07:50:44 UTC 2025","passed","Fri Dec 19 07:50:44 UTC 2025","TestSignInPage","test_signin_page","",""
 "
-        Test validation for empty email and/or password fields.
+        Test that search options are correctly displayed.
 
-        Scenarios:
-        - Empty email
-        - Empty password
-        - Both fields empty
-        ","610","Wrong format fields validation","tests","Fri Dec 19 07:51:04 UTC 2025","passed","Fri Dec 19 07:51:04 UTC 2025","TestSignInPage","test_signin_page","",""
+        This test verifies that:
+        1. Default search option is Name
+        2. All search options are available in the dropdown
+        ","1671","Search Options Visibility","tests","Fri Dec 19 07:57:58 UTC 2025","passed","Fri Dec 19 07:58:00 UTC 2025","TestLinksPage","test_links_page","",""
 "
         Test notification for invalid email and password.
 
@@ -15,14 +13,7 @@
         1. User can navigate to the sign-in page
         2. User can attempt login with invalid credentials
         3. Error notification appears for invalid credentials
-        ","982","Invalid Credentials Notification","tests","Fri Dec 19 07:50:56 UTC 2025","passed","Fri Dec 19 07:50:57 UTC 2025","TestSignInPage","test_signin_page","",""
-"
-        Test the flow of generating a link and verifying it appears in the Links page.
-
-        This test verifies that:
-        1. User can generate a natural person link
-        2. The link appears in the Links page table
-        ","5082","Generate Link Functional Flow","tests","Fri Dec 19 07:50:48 UTC 2025","passed","Fri Dec 19 07:50:53 UTC 2025","TestWorkflowsPage","test_workflows_page","",""
+        ","1321","Invalid Credentials Notification","tests","Fri Dec 19 07:58:10 UTC 2025","passed","Fri Dec 19 07:58:11 UTC 2025","TestSignInPage","test_signin_page","",""
 "
         Test validation for empty email and/or password fields.
 
@@ -30,7 +21,14 @@
         - Empty email
         - Empty password
         - Both fields empty
-        ","593","Wrong format fields validation","tests","Fri Dec 19 07:50:58 UTC 2025","passed","Fri Dec 19 07:50:59 UTC 2025","TestSignInPage","test_signin_page","",""
+        ","619","Wrong format fields validation","tests","Fri Dec 19 07:58:38 UTC 2025","passed","Fri Dec 19 07:58:39 UTC 2025","TestSignInPage","test_signin_page","",""
+"
+        Test that the links page loads and displays correct headers.
+
+        This test verifies that:
+        1. User can navigate to the links page
+        2. Table headers are correct
+        ","1543","Links Page Load","tests","Fri Dec 19 07:57:57 UTC 2025","passed","Fri Dec 19 07:57:58 UTC 2025","TestLinksPage","test_links_page","",""
 "
         Test validation for empty email and/or password fields.
 
@@ -38,61 +36,7 @@
         - Empty email
         - Empty password
         - Both fields empty
-        ","660","Wrong format fields validation","tests","Fri Dec 19 07:50:42 UTC 2025","passed","Fri Dec 19 07:50:43 UTC 2025","TestSignInPage","test_signin_page","",""
-"
-        Test validation for empty email and/or password fields.
-
-        Scenarios:
-        - Empty email
-        - Empty password
-        - Both fields empty
-        ","612","Empty fields validation","tests","Fri Dec 19 07:51:00 UTC 2025","passed","Fri Dec 19 07:51:00 UTC 2025","TestSignInPage","test_signin_page","",""
-"
-        Test validation for empty email and/or password fields.
-
-        Scenarios:
-        - Empty email
-        - Empty password
-        - Both fields empty
-        ","592","Empty fields validation","tests","Fri Dec 19 07:50:54 UTC 2025","passed","Fri Dec 19 07:50:55 UTC 2025","TestSignInPage","test_signin_page","",""
-"
-        Test that the generate link modal opens correctly.
-
-        This test verifies that:
-        1. User can click generate button
-        2. Modal appears with correct title
-        ","1598","Generate Link Modal Load","tests","Fri Dec 19 07:50:46 UTC 2025","passed","Fri Dec 19 07:50:48 UTC 2025","TestWorkflowsPage","test_workflows_page","",""
-"
-        Test that filter popover and its elements are correctly displayed.
-
-        This test verifies that:
-        1. Filter button opens the popover
-        2. Filter fields are visible
-        3. Profile type options are correct
-        ","1761","Filter Popover Visibility","tests","Fri Dec 19 07:50:28 UTC 2025","passed","Fri Dec 19 07:50:30 UTC 2025","TestLinksPage","test_links_page","",""
-"
-        Test that the login page loads and is fully visible.
-
-        This test verifies that:
-        1. User can navigate to the sign-in page
-        2. Essential elements (email, password, sign-in button) are visible
-        ","11","Login Page Load","tests","Fri Dec 19 07:50:31 UTC 2025","passed","Fri Dec 19 07:50:31 UTC 2025","TestSignInPage","test_signin_page","",""
-"
-        Test closing the invalid credentials notification.
-
-        This test verifies that:
-        1. User can navigate to the sign-in page
-        2. User can attempt login with invalid credentials
-        3. Error notification appears and can be closed
-        ","2271","Close Invalid Credentials Notification","tests","Fri Dec 19 07:50:39 UTC 2025","passed","Fri Dec 19 07:50:41 UTC 2025","TestSignInPage","test_signin_page","",""
-"
-        Test validation for empty email and/or password fields.
-
-        Scenarios:
-        - Empty email
-        - Empty password
-        - Both fields empty
-        ","609","Empty fields validation","tests","Fri Dec 19 07:50:35 UTC 2025","passed","Fri Dec 19 07:50:35 UTC 2025","TestSignInPage","test_signin_page","",""
+        ","616","Wrong format fields validation","tests","Fri Dec 19 07:58:32 UTC 2025","passed","Fri Dec 19 07:58:33 UTC 2025","TestSignInPage","test_signin_page","",""
 "
         Test successful login process.
 
@@ -100,7 +44,37 @@
         1. User can navigate to the application
         2. User can perform login with valid credentials
         3. Login is successful and user is redirected to workflows page
-        ","1613","Successful Login","tests","Fri Dec 19 07:50:32 UTC 2025","passed","Fri Dec 19 07:50:34 UTC 2025","TestSignInPage","test_signin_page","",""
+        ","2000","Successful Login","tests","Fri Dec 19 07:58:05 UTC 2025","passed","Fri Dec 19 07:58:07 UTC 2025","TestSignInPage","test_signin_page","",""
+"
+        Test the flow of generating a link and verifying it appears in the Links page.
+
+        This test verifies that:
+        1. User can generate a natural person link
+        2. The link appears in the Links page table
+        ","5004","Generate Link Functional Flow","tests","Fri Dec 19 07:58:22 UTC 2025","passed","Fri Dec 19 07:58:27 UTC 2025","TestWorkflowsPage","test_workflows_page","",""
+"
+        Test closing the invalid credentials notification.
+
+        This test verifies that:
+        1. User can navigate to the sign-in page
+        2. User can attempt login with invalid credentials
+        3. Error notification appears and can be closed
+        ","2525","Close Invalid Credentials Notification","tests","Fri Dec 19 07:58:12 UTC 2025","passed","Fri Dec 19 07:58:15 UTC 2025","TestSignInPage","test_signin_page","",""
+"
+        Test validation for empty email and/or password fields.
+
+        Scenarios:
+        - Empty email
+        - Empty password
+        - Both fields empty
+        ","626","Empty fields validation","tests","Fri Dec 19 07:58:34 UTC 2025","passed","Fri Dec 19 07:58:35 UTC 2025","TestSignInPage","test_signin_page","",""
+"
+        Test that the login page loads and is fully visible.
+
+        This test verifies that:
+        1. User can navigate to the sign-in page
+        2. Essential elements (email, password, sign-in button) are visible
+        ","9","Login Page Load","tests","Fri Dec 19 07:58:03 UTC 2025","passed","Fri Dec 19 07:58:03 UTC 2025","TestSignInPage","test_signin_page","",""
 "
         Test notification for invalid email and password.
 
@@ -108,28 +82,54 @@
         1. User can navigate to the sign-in page
         2. User can attempt login with invalid credentials
         3. Error notification appears for invalid credentials
-        ","992","Invalid Credentials Notification","tests","Fri Dec 19 07:51:02 UTC 2025","passed","Fri Dec 19 07:51:03 UTC 2025","TestSignInPage","test_signin_page","",""
+        ","1208","Invalid Credentials Notification","tests","Fri Dec 19 07:58:30 UTC 2025","passed","Fri Dec 19 07:58:31 UTC 2025","TestSignInPage","test_signin_page","",""
 "
-        Test that the links page loads and displays correct headers.
+        Test that the generate link modal opens correctly.
 
         This test verifies that:
-        1. User can navigate to the links page
-        2. Table headers are correct
-        ","1466","Links Page Load","tests","Fri Dec 19 07:50:24 UTC 2025","passed","Fri Dec 19 07:50:26 UTC 2025","TestLinksPage","test_links_page","",""
+        1. User can click generate button
+        2. Modal appears with correct title
+        ","1561","Generate Link Modal Load","tests","Fri Dec 19 07:58:20 UTC 2025","passed","Fri Dec 19 07:58:21 UTC 2025","TestWorkflowsPage","test_workflows_page","",""
 "
-        Test that search options are correctly displayed.
+        Test validation for empty email and/or password fields.
 
-        This test verifies that:
-        1. Default search option is Name
-        2. All search options are available in the dropdown
-        ","1593","Search Options Visibility","tests","Fri Dec 19 07:50:26 UTC 2025","passed","Fri Dec 19 07:50:28 UTC 2025","TestLinksPage","test_links_page","",""
+        Scenarios:
+        - Empty email
+        - Empty password
+        - Both fields empty
+        ","617","Wrong format fields validation","tests","Fri Dec 19 07:58:16 UTC 2025","passed","Fri Dec 19 07:58:16 UTC 2025","TestSignInPage","test_signin_page","",""
+"
+        Test validation for empty email and/or password fields.
+
+        Scenarios:
+        - Empty email
+        - Empty password
+        - Both fields empty
+        ","598","Empty fields validation","tests","Fri Dec 19 07:58:28 UTC 2025","passed","Fri Dec 19 07:58:29 UTC 2025","TestSignInPage","test_signin_page","",""
+"
+        Test validation for empty email and/or password fields.
+
+        Scenarios:
+        - Empty email
+        - Empty password
+        - Both fields empty
+        ","631","Empty fields validation","tests","Fri Dec 19 07:58:08 UTC 2025","passed","Fri Dec 19 07:58:08 UTC 2025","TestSignInPage","test_signin_page","",""
+"","120","test_password_hide_button_is_working[chromium]","tests","Fri Dec 19 07:58:18 UTC 2025","passed","Fri Dec 19 07:58:18 UTC 2025","TestSignInPage","test_signin_page","",""
 "
         Test that the workflows page loads and is fully visible.
 
         This test verifies that:
         1. User can navigate to the workflows page
         2. Essential elements are visible
-        ","1428","Workflows Page Load","tests","Fri Dec 19 07:50:44 UTC 2025","passed","Fri Dec 19 07:50:46 UTC 2025","TestWorkflowsPage","test_workflows_page","",""
+        ","1731","Workflows Page Load","tests","Fri Dec 19 07:58:18 UTC 2025","passed","Fri Dec 19 07:58:20 UTC 2025","TestWorkflowsPage","test_workflows_page","",""
+"
+        Test that filter popover and its elements are correctly displayed.
+
+        This test verifies that:
+        1. Filter button opens the popover
+        2. Filter fields are visible
+        3. Profile type options are correct
+        ","1779","Filter Popover Visibility","tests","Fri Dec 19 07:58:00 UTC 2025","passed","Fri Dec 19 07:58:02 UTC 2025","TestLinksPage","test_links_page","",""
 "
         Test notification for invalid email and password.
 
@@ -137,4 +137,4 @@
         1. User can navigate to the sign-in page
         2. User can attempt login with invalid credentials
         3. Error notification appears for invalid credentials
-        ","1102","Invalid Credentials Notification","tests","Fri Dec 19 07:50:37 UTC 2025","passed","Fri Dec 19 07:50:38 UTC 2025","TestSignInPage","test_signin_page","",""
+        ","1211","Invalid Credentials Notification","tests","Fri Dec 19 07:58:36 UTC 2025","passed","Fri Dec 19 07:58:37 UTC 2025","TestSignInPage","test_signin_page","",""

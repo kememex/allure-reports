@@ -1,3 +1,0 @@
-07:50:44 | INFO | Opening login page
-07:50:45 | INFO | Navigating to workflows
-07:50:46 | INFO | Waiting for page to be loaded

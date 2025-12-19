@@ -1,0 +1,2 @@
+07:58:00 | INFO | Opening login page
+07:58:00 | INFO | Navigating to links
