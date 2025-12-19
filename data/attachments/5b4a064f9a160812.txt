@@ -1,0 +1,1 @@
+08:37:31 | MANUAL | Generated link info : dict_items([('first_name', 'William'), ('last_name', 'Williams'), ('email', 'noahschwartz@example.com'), ('deadline_date', '16.06.2026')])
