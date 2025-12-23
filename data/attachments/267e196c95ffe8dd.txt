@@ -1,0 +1,9 @@
+09:43:45 | MANUAL | [32mGenerated link info : dict_items([('first_name', 'Elizabeth'), ('last_name', 'Fry'), ('email', 'brookstracy@example.org'), ('deadline_date', '21.11.2026')])[0m
+09:43:45 | INFO | Opening login page
+09:43:47 | INFO | Waiting for page to be loaded
+09:43:47 | INFO | <green>✓ Filled first name: Elizabeth</green>
+09:43:47 | INFO | <green>✓ Filled last name: Fry</green>
+09:43:47 | INFO | <green>✓ Filled email: brookstracy@example.org</green>
+09:43:47 | INFO | <green>✓ Set deadline date: 21/11/2026</green>
+09:43:47 | INFO | <green>✓ Clicked generate button</green>
+09:43:49 | INFO | Navigating to links
