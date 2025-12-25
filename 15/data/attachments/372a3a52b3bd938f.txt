@@ -1,0 +1,9 @@
+16:26:20 | MANUAL | [32mGenerated natural_person link info: {'first_name': 'Peter', 'last_name': 'Douglas', 'email': 'burgessjohn@example.com', 'deadline_date': '01.07.2026', 'profile_type': 'natural_person'}[0m
+16:26:20 | INFO | Opening login page
+16:26:22 | INFO | Waiting for page to be loaded
+16:26:22 | INFO | <green>✓ Filled first name: Peter</green>
+16:26:22 | INFO | <green>✓ Filled last name: Douglas</green>
+16:26:22 | INFO | <green>✓ Filled email: burgessjohn@example.com</green>
+16:26:22 | INFO | <green>✓ Set deadline date: 01/07/2026</green>
+16:26:23 | INFO | <green>✓ Clicked generate button</green>
+16:26:24 | INFO | Navigating to links

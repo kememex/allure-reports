@@ -1,0 +1,2 @@
+16:26:36 | MANUAL | [32mGenerated company link info: {'company_name': 'Anderson-Gordon', 'email': 'clarkbrian@example.net', 'deadline_date': '29.09.2026', 'profile_type': 'company'}[0m
+16:26:37 | INFO | Opening login page
