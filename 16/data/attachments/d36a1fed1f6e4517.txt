@@ -1,0 +1,4 @@
+16:45:48 | MANUAL | [32mGenerated company link info: {'company_name': 'Hubbard Group', 'email': 'xgreen@example.com', 'deadline_date': '25.06.2026', 'profile_type': 'company'}[0m
+16:45:48 | INFO | Opening login page
+16:45:50 | INFO | Waiting for page to be loaded
+16:46:05 | INFO | Auth state file removed after session
