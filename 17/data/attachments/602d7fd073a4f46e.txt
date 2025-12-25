@@ -1,0 +1,4 @@
+17:00:07 | MANUAL | [32mGenerated company link info: {'company_name': 'Johnson, Greene and Zamora', 'email': 'xsosa@example.com', 'deadline_date': '21.07.2026'}[0m
+17:00:07 | INFO | Opening login page
+17:00:09 | INFO | Waiting for page to be loaded
+17:00:25 | INFO | Auth state file removed after session
