@@ -1,0 +1,9 @@
+15:13:00 | MANUAL | [32mGenerated company link info: {'company_name': 'Foster Ltd', 'email': 'esmith@example.net', 'deadline_date': '29.12.2025'}[0m
+15:13:00 | INFO | Opening login page
+15:13:02 | INFO | Waiting for page to be loaded
+15:13:03 | INFO | <green>✓ Filled company name: Foster Ltd</green>
+15:13:03 | INFO | <green>✓ Filled email: esmith@example.net</green>
+15:13:03 | INFO | <green>✓ Set deadline date: 29/12/2025</green>
+15:13:04 | INFO | <green>✓ Clicked generate button</green>
+15:13:05 | INFO | Navigating to links
+15:13:07 | INFO | Auth state file removed after session
