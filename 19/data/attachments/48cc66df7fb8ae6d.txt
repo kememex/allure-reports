@@ -1,0 +1,8 @@
+15:44:02 | MANUAL | [32mGenerated company link info: {'company_name': 'Jackson-Velez', 'email': 'allison66@example.com', 'deadline_date': '11.11.2026'}[0m
+15:44:02 | INFO | Opening login page
+15:44:04 | INFO | Waiting for page to be loaded
+15:44:05 | INFO | <green>✓ Filled company name: Jackson-Velez</green>
+15:44:05 | INFO | <green>✓ Filled email: allison66@example.com</green>
+15:44:05 | INFO | <green>✓ Set deadline date: 11/11/2026</green>
+15:44:05 | INFO | <green>✓ Clicked generate button</green>
+15:44:07 | INFO | Navigating to links
