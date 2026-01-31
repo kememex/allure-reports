@@ -1,0 +1,2 @@
+10:48:59 | INFO | Opening login page
+10:49:00 | MANUAL | [32m✓ Search: Anderson-Smith[0m

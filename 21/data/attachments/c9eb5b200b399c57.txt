@@ -1,0 +1,2 @@
+10:49:04 | INFO | Opening login page
+10:49:05 | MANUAL | [32m✓ Search: And[0m

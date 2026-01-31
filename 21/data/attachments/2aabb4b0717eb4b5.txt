@@ -1,0 +1,9 @@
+10:50:09 | INFO | Opening login page
+10:50:10 | MANUAL | [32mGenerated company link info: {'company_name': 'Sandoval-Chapman', 'email': 'ptyler@example.com', 'deadline_date': '14.12.2026'}[0m
+10:50:11 | INFO | Generating form with {'company_name': 'Sandoval-Chapman', 'email': 'user@.com', 'deadline_date': '14.12.2026'}
+10:50:11 | INFO | Waiting for page to be loaded
+10:50:12 | INFO | <green>✓ Filled company name: Sandoval-Chapman</green>
+10:50:12 | INFO | <green>✓ Filled email: user@.com</green>
+10:50:12 | INFO | <green>✓ Set deadline date: 14/12/2026</green>
+10:50:12 | INFO | <green>✓ Clicked generate button</green>
+10:50:12 | INFO | Auth state file removed after session

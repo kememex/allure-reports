@@ -1,0 +1,1 @@
+10:47:43 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Ryan', 'last_name': 'Thomas', 'email': 'davisjeff@example.org', 'deadline_date': '30.03.2026'}, 'company': {'company_name': 'Anderson-Smith', 'email': 'youngsarah@example.com', 'deadline_date': '11.10.2026'}}

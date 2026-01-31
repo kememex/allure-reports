@@ -1,0 +1,30 @@
+10:47:35 | INFO | Performing session-level authentication...
+10:47:35 | INFO | Opening login page
+10:47:37 | INFO | ✓ Entering username
+10:47:37 | INFO | ✓ Entering password
+10:47:37 | INFO | ✓ Clicking login button
+10:47:39 | INFO | ✓ Verifying login success
+10:47:39 | INFO | ✓ Authentication successful. State saved to state/auth_state.json
+10:47:39 | INFO | Generating session-level links (Natural Person and Company)...
+10:47:39 | INFO | Opening login page
+10:47:41 | INFO | Generating form with {'first_name': 'Ryan', 'last_name': 'Thomas', 'email': 'davisjeff@example.org', 'deadline_date': '30.03.2026'}
+10:47:41 | INFO | Waiting for page to be loaded
+10:47:41 | INFO | <green>✓ Filled first name: Ryan</green>
+10:47:41 | INFO | <green>✓ Filled last name: Thomas</green>
+10:47:41 | INFO | <green>✓ Filled email: davisjeff@example.org</green>
+10:47:41 | INFO | <green>✓ Set deadline date: 30/03/2026</green>
+10:47:41 | INFO | <green>✓ Clicked generate button</green>
+10:47:42 | INFO | Generating form with {'company_name': 'Anderson-Smith', 'email': 'youngsarah@example.com', 'deadline_date': '11.10.2026'}
+10:47:42 | INFO | Waiting for page to be loaded
+10:47:43 | INFO | <green>✓ Filled company name: Anderson-Smith</green>
+10:47:43 | INFO | <green>✓ Filled email: youngsarah@example.com</green>
+10:47:43 | INFO | <green>✓ Set deadline date: 11/10/2026</green>
+10:47:43 | INFO | <green>✓ Clicked generate button</green>
+10:47:43 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Ryan', 'last_name': 'Thomas', 'email': 'davisjeff@example.org', 'deadline_date': '30.03.2026'}, 'company': {'company_name': 'Anderson-Smith', 'email': 'youngsarah@example.com', 'deadline_date': '11.10.2026'}}
+10:47:43 | INFO | Retrieving workflow link for company: Anderson-Smith
+10:47:43 | INFO | Opening login page
+10:47:44 | INFO | Waiting for page to be loaded
+10:47:46 | INFO | <green>✓ Copied workflow link: https://test.detelio.ai/verification/e4b0ea8d5564e2572d281602a774a24fed59727a88cee22c30fdb9161cad5883bc7f1caecd899ad0d9854709e765ebfb1d2d9efe59fc047a37e8d65e232a029d</green>
+10:47:46 | INFO | <green>✓ Retrieved workflow link for session: https://test.detelio.ai/verification/e4b0ea8d5564e2572d281602a774a24fed59727a88cee22c30fdb9161cad5883bc7f1caecd899ad0d9854709e765ebfb1d2d9efe59fc047a37e8d65e232a029d</green>
+10:47:46 | INFO | Using workflow link: https://test.detelio.ai/verification/e4b0ea8d5564e2572d281602a774a24fed59727a88cee22c30fdb9161cad5883bc7f1caecd899ad0d9854709e765ebfb1d2d9efe59fc047a37e8d65e232a029d
+10:47:46 | INFO | Waiting for page to be loaded

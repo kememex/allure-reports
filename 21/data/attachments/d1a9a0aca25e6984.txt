@@ -1,0 +1,8 @@
+10:49:56 | INFO | Opening login page
+10:49:56 | MANUAL | [32mGenerated company link info: {'company_name': 'Smith LLC', 'email': 'jennifer65@example.org', 'deadline_date': '10.10.2026'}[0m
+10:49:58 | INFO | Generating form with {'company_name': 'Smith LLC', 'email': 'user@', 'deadline_date': '10.10.2026'}
+10:49:58 | INFO | Waiting for page to be loaded
+10:49:59 | INFO | <green>✓ Filled company name: Smith LLC</green>
+10:49:59 | INFO | <green>✓ Filled email: user@</green>
+10:49:59 | INFO | <green>✓ Set deadline date: 10/10/2026</green>
+10:49:59 | INFO | <green>✓ Clicked generate button</green>

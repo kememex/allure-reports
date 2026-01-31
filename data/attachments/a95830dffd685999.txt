@@ -1,0 +1,9 @@
+10:48:51 | INFO | Opening login page
+10:48:51 | MANUAL | [32mGenerated natural_person link info: {'first_name': 'Sara', 'last_name': 'Clark', 'email': 'lauraortiz@example.net', 'deadline_date': '27.11.2026'}[0m
+10:48:53 | INFO | Generating form with {'first_name': 'Sara', 'last_name': 'Clark', 'email': 'lauraortiz@example.net', 'deadline_date': '30.01.2026'}
+10:48:53 | INFO | Waiting for page to be loaded
+10:48:53 | INFO | <green>✓ Filled first name: Sara</green>
+10:48:53 | INFO | <green>✓ Filled last name: Clark</green>
+10:48:53 | INFO | <green>✓ Filled email: lauraortiz@example.net</green>
+10:48:53 | INFO | <green>✓ Set deadline date: 30/01/2026</green>
+10:48:53 | INFO | <green>✓ Clicked generate button</green>

@@ -1,0 +1,3 @@
+10:49:26 | INFO | Creating clean context (No Auth)
+10:49:26 | INFO | Opening sign-up page
+10:49:27 | ERROR | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)

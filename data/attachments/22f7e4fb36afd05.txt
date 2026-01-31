@@ -1,0 +1,1 @@
+10:49:21 | ERROR | Browser Console error: Failed to load resource: the server responded with a status of 400 (Bad Request)

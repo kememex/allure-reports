@@ -1,0 +1,1 @@
+10:50:06 | INFO | Generating form with {'company_name': 'Smith, Hall and Hart', 'email': '@domain.com', 'deadline_date': '30.06.2026'}

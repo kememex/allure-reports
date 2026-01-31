@@ -1,0 +1,4 @@
+10:48:07 | INFO | Opening login page
+10:48:09 | MANUAL | [32m✓ Search: Anderson-Smith[0m
+10:48:10 | MANUAL | [32m✓ Cleared search[0m
+10:48:10 | MANUAL | [32m✓ Search: Ryan Thomas[0m

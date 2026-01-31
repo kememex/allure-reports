@@ -1,0 +1,1 @@
+10:49:50 | INFO | Opening sign-up page

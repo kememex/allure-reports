@@ -1,0 +1,3 @@
+10:49:10 | INFO | Opening login page
+10:49:12 | MANUAL | [32m✓ Selected search option: Email[0m
+10:49:13 | MANUAL | [32m✓ Search: young[0m

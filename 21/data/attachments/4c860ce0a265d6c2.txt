@@ -1,0 +1,8 @@
+10:50:04 | INFO | Opening login page
+10:50:04 | MANUAL | [32mGenerated company link info: {'company_name': 'Smith, Hall and Hart', 'email': 'debragonzales@example.com', 'deadline_date': '30.06.2026'}[0m
+10:50:06 | INFO | Generating form with {'company_name': 'Smith, Hall and Hart', 'email': '@domain.com', 'deadline_date': '30.06.2026'}
+10:50:06 | INFO | Waiting for page to be loaded
+10:50:07 | INFO | <green>✓ Filled company name: Smith, Hall and Hart</green>
+10:50:07 | INFO | <green>✓ Filled email: @domain.com</green>
+10:50:07 | INFO | <green>✓ Set deadline date: 30/06/2026</green>
+10:50:07 | INFO | <green>✓ Clicked generate button</green>
