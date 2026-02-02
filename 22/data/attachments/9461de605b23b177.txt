@@ -1,0 +1,1 @@
+18:31:28 | INFO | Generating form with {'company_name': '', 'email': '', 'deadline_date': ''}

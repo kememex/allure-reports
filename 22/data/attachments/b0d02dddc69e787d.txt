@@ -1,0 +1,12 @@
+18:29:06 | INFO | Performing session-level authentication...
+18:29:06 | INFO | Opening SignInPage at https://test.detelio.ai
+18:29:07 | INFO | Waiting for SignInPage to be loaded
+18:29:08 | INFO | ✓ Entering username
+18:29:08 | INFO | ✓ Entering password
+18:29:08 | INFO | ✓ Clicking login button
+18:29:10 | INFO | ✓ Verifying login success
+18:29:10 | INFO | ✓ Authentication successful. State saved to state/auth_state.json
+18:29:10 | INFO | Opening AdminPage at https://test.detelio.ai
+18:29:10 | INFO | Waiting for AdminPage to be loaded
+18:29:11 | INFO | Navigating to links
+18:29:12 | INFO | Waiting for LinksPage to be loaded

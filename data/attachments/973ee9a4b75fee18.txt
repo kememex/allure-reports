@@ -1,0 +1,10 @@
+18:32:09 | INFO | Opening WorkflowPage at https://test.detelio.ai/workflows/workflows
+18:32:09 | INFO | Waiting for WorkflowPage to be loaded
+18:32:10 | MANUAL | [32mGenerated company link info: {'company_name': 'Hanson-Warren', 'email': 'zsnyder@example.com', 'deadline_date': '30.04.2026'}[0m
+18:32:11 | INFO | Generating form with {'company_name': 'Hanson-Warren', 'email': 'user@.com', 'deadline_date': '30.04.2026'}
+18:32:11 | INFO | Waiting for GenerateModal to be loaded
+18:32:12 | INFO | <green>✓ Filled company name: Hanson-Warren</green>
+18:32:12 | INFO | <green>✓ Filled email: user@.com</green>
+18:32:12 | INFO | <green>✓ Set deadline date: 30/04/2026</green>
+18:32:12 | INFO | <green>✓ Clicked generate button</green>
+18:32:12 | INFO | Auth state file removed after session

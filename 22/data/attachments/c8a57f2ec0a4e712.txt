@@ -1,0 +1,4 @@
+18:30:56 | INFO | Opening LinksPage at https://test.detelio.ai/workflows/links
+18:30:56 | INFO | Waiting for LinksPage to be loaded
+18:30:58 | MANUAL | [32m✓ Selected search option: Email[0m
+18:30:58 | MANUAL | [32m✓ Search: walte[0m

@@ -1,0 +1,1 @@
+18:31:31 | INFO | Generating form with {'company_name': 'Taylor Inc', 'email': 'exmaple.com', 'deadline_date': '28.07.2026'}

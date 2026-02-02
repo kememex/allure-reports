@@ -1,0 +1,3 @@
+18:30:47 | INFO | Opening LinksPage at https://test.detelio.ai/workflows/links
+18:30:48 | INFO | Waiting for LinksPage to be loaded
+18:30:49 | MANUAL | [32m✓ Search: Murphy, Garcia and Braun[0m
