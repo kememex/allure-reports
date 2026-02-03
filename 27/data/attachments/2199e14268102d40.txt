@@ -1,0 +1,9 @@
+06:37:27 | INFO | Opening login page
+06:37:27 | MANUAL | [32mGenerated company link info: {'company_name': 'Moore-Bright', 'email': 'vprice@example.com', 'deadline_date': '08.07.2026'}[0m
+06:37:29 | INFO | Generating form with {'company_name': 'Moore-Bright', 'email': 'vprice@example.com', 'deadline_date': '08.07.2026'}
+06:37:29 | INFO | Waiting for page to be loaded
+06:37:30 | INFO | <green>✓ Filled company name: Moore-Bright</green>
+06:37:30 | INFO | <green>✓ Filled email: vprice@example.com</green>
+06:37:30 | INFO | <green>✓ Set deadline date: 08/07/2026</green>
+06:37:30 | INFO | <green>✓ Clicked generate button</green>
+06:37:32 | INFO | Navigating to links

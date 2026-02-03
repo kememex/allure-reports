@@ -1,0 +1,8 @@
+06:37:21 | INFO | Opening login page
+06:37:21 | MANUAL | [32mGenerated company link info: {'company_name': 'Garcia, Smith and Trevino', 'email': 'weeksjoshua@example.org', 'deadline_date': '01.04.2026'}[0m
+06:37:23 | INFO | Generating form with {'company_name': 'Garcia, Smith and Trevino', 'email': 'exmaple.com', 'deadline_date': '01.04.2026'}
+06:37:23 | INFO | Waiting for page to be loaded
+06:37:24 | INFO | <green>✓ Filled company name: Garcia, Smith and Trevino</green>
+06:37:24 | INFO | <green>✓ Filled email: exmaple.com</green>
+06:37:24 | INFO | <green>✓ Set deadline date: 01/04/2026</green>
+06:37:24 | INFO | <green>✓ Clicked generate button</green>

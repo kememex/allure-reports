@@ -1,0 +1,1 @@
+06:37:23 | INFO | Waiting for page to be loaded

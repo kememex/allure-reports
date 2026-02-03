@@ -1,0 +1,1 @@
+06:37:26 | INFO | Generating form with {'company_name': 'West Ltd', 'email': 'amandajones@example.com', 'deadline_date': '02.02.2026'}

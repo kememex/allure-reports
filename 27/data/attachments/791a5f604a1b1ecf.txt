@@ -1,0 +1,2 @@
+06:36:53 | INFO | Opening login page
+06:36:54 | MANUAL | [32m✓ Search: Harris LLC[0m

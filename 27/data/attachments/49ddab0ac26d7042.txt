@@ -1,0 +1,2 @@
+06:36:58 | INFO | Opening login page
+06:36:59 | MANUAL | [32m✓ Search: Har[0m

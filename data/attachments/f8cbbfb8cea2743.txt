@@ -1,0 +1,3 @@
+06:35:57 | INFO | Opening login page
+06:35:59 | MANUAL | [32m✓ Selected search option: Email[0m
+06:35:59 | MANUAL | [32m✓ Search: jared[0m

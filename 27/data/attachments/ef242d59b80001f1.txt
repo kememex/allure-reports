@@ -1,0 +1,3 @@
+06:37:00 | INFO | Opening login page
+06:37:02 | MANUAL | [32m✓ Selected search option: Email[0m
+06:37:03 | MANUAL | [32m✓ Search: xande[0m

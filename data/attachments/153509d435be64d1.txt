@@ -1,0 +1,3 @@
+06:36:55 | INFO | Opening login page
+06:36:57 | MANUAL | [32m✓ Selected search option: Email[0m
+06:36:57 | MANUAL | [32m✓ Search: xanderson@example.net[0m

@@ -1,0 +1,2 @@
+06:35:55 | INFO | Opening login page
+06:35:56 | MANUAL | [32m✓ Search: Jod[0m

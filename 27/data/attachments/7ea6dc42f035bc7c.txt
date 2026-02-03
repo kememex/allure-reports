@@ -1,0 +1,9 @@
+06:36:44 | INFO | Opening login page
+06:36:44 | MANUAL | [32mGenerated natural_person link info: {'first_name': 'Andrew', 'last_name': 'Stevenson', 'email': 'ksmith@example.org', 'deadline_date': '26.08.2026'}[0m
+06:36:45 | INFO | Generating form with {'first_name': 'Andrew', 'last_name': 'Stevenson', 'email': 'exmaple.com', 'deadline_date': '26.08.2026'}
+06:36:45 | INFO | Waiting for page to be loaded
+06:36:45 | INFO | <green>✓ Filled first name: Andrew</green>
+06:36:45 | INFO | <green>✓ Filled last name: Stevenson</green>
+06:36:45 | INFO | <green>✓ Filled email: exmaple.com</green>
+06:36:45 | INFO | <green>✓ Set deadline date: 26/08/2026</green>
+06:36:46 | INFO | <green>✓ Clicked generate button</green>
