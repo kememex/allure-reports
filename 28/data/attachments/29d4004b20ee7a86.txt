@@ -1,0 +1,10 @@
+07:34:24 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+07:34:25 | INFO | Waiting for WorkflowPage to be loaded
+07:34:26 | MANUAL | [32mGenerated company link info: {'company_name': 'Garcia-Hawkins', 'email': 'ryan10@example.com', 'deadline_date': '17.12.2026'}[0m
+07:34:26 | INFO | Generating form with {'company_name': 'Garcia-Hawkins', 'email': 'ryan10@example.com', 'deadline_date': '17.12.2026'}
+07:34:26 | INFO | Waiting for GenerateModal to be loaded
+07:34:27 | INFO | <green>✓ Filled company name: Garcia-Hawkins</green>
+07:34:27 | INFO | <green>✓ Filled email: ryan10@example.com</green>
+07:34:27 | INFO | <green>✓ Set deadline date: 17/12/2026</green>
+07:34:27 | INFO | <green>✓ Clicked generate button</green>
+07:34:29 | INFO | Navigating to links

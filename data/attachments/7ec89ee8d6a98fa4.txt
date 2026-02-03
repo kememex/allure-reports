@@ -1,0 +1,1 @@
+07:34:20 | INFO | Generating form with {'company_name': 'Brady, Berry and Hampton', 'email': 'exmaple.com', 'deadline_date': '30.08.2026'}
