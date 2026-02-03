@@ -1,0 +1,20 @@
+06:13:06 | INFO | Generating session-level links (Natural Person and Company)...
+06:13:06 | INFO | Opening WorkflowPage at https://test.detelio.ai/workflows/workflows
+06:13:06 | INFO | Waiting for WorkflowPage to be loaded
+06:13:08 | INFO | Generating form with {'first_name': 'Cynthia', 'last_name': 'Richardson', 'email': 'petersricky@example.net', 'deadline_date': '24.08.2026'}
+06:13:08 | INFO | Waiting for GenerateModal to be loaded
+06:13:08 | INFO | <green>✓ Filled first name: Cynthia</green>
+06:13:08 | INFO | <green>✓ Filled last name: Richardson</green>
+06:13:08 | INFO | <green>✓ Filled email: petersricky@example.net</green>
+06:13:08 | INFO | <green>✓ Set deadline date: 24/08/2026</green>
+06:13:08 | INFO | <green>✓ Clicked generate button</green>
+06:13:09 | INFO | Generating form with {'company_name': 'Smith, Pitts and Sutton', 'email': 'jasonoliver@example.org', 'deadline_date': '06.02.2026'}
+06:13:09 | INFO | Waiting for GenerateModal to be loaded
+06:13:10 | INFO | <green>✓ Filled company name: Smith, Pitts and Sutton</green>
+06:13:10 | INFO | <green>✓ Filled email: jasonoliver@example.org</green>
+06:13:10 | INFO | <green>✓ Set deadline date: 06/02/2026</green>
+06:13:11 | INFO | <green>✓ Clicked generate button</green>
+06:13:11 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Cynthia', 'last_name': 'Richardson', 'email': 'petersricky@example.net', 'deadline_date': '24.08.2026'}, 'company': {'company_name': 'Smith, Pitts and Sutton', 'email': 'jasonoliver@example.org', 'deadline_date': '06.02.2026'}}
+06:13:11 | INFO | Opening LinksPage at https://test.detelio.ai/workflows/links
+06:13:11 | INFO | Waiting for LinksPage to be loaded
+06:13:12 | MANUAL | [32m✓ Search: Cynthia Richardson[0m

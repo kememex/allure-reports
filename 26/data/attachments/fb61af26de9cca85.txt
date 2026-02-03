@@ -1,0 +1,5 @@
+06:14:02 | INFO | Creating clean context (No Auth)
+06:14:02 | INFO | Opening SignUpPage at https://test.detelio.ai/sign-up
+06:14:02 | INFO | Waiting for SignUpPage to be loaded
+06:14:02 | ERROR | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+06:14:03 | INFO | Waiting for SignUpPage to be loaded

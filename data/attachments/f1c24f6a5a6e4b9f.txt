@@ -1,0 +1,3 @@
+06:14:25 | INFO | Opening LinksPage at https://test.detelio.ai/workflows/links
+06:14:25 | INFO | Waiting for LinksPage to be loaded
+06:14:26 | MANUAL | [32m✓ Search: Smith, Pitts and Sutton[0m

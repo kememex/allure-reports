@@ -1,0 +1,1 @@
+06:15:07 | INFO | Generating form with {'company_name': 'Spencer, Garcia and Wilson', 'email': 'exmaple.com', 'deadline_date': '08.05.2026'}
