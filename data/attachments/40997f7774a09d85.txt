@@ -1,0 +1,1 @@
+19:09:14 | INFO | Generating form with {'company_name': 'Bond Inc', 'email': 'user@.com', 'deadline_date': '22.06.2026'}

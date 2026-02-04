@@ -1,0 +1,20 @@
+19:06:36 | INFO | Generating session-level links (Natural Person and Company)...
+19:06:36 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+19:06:36 | INFO | Waiting for WorkflowPage to be loaded
+19:06:37 | INFO | Generating form with {'first_name': 'Jennifer', 'last_name': 'Hansen', 'email': 'steven69@example.net', 'deadline_date': '06.08.2026'}
+19:06:37 | INFO | Waiting for GenerateModal to be loaded
+19:06:37 | INFO | <green>✓ Filled first name: Jennifer</green>
+19:06:37 | INFO | <green>✓ Filled last name: Hansen</green>
+19:06:37 | INFO | <green>✓ Filled email: steven69@example.net</green>
+19:06:37 | INFO | <green>✓ Set deadline date: 06/08/2026</green>
+19:06:38 | INFO | <green>✓ Clicked generate button</green>
+19:06:39 | INFO | Generating form with {'company_name': 'White Ltd', 'email': 'jmurray@example.org', 'deadline_date': '06.03.2026'}
+19:06:39 | INFO | Waiting for GenerateModal to be loaded
+19:06:40 | INFO | <green>✓ Filled company name: White Ltd</green>
+19:06:40 | INFO | <green>✓ Filled email: jmurray@example.org</green>
+19:06:40 | INFO | <green>✓ Set deadline date: 06/03/2026</green>
+19:06:40 | INFO | <green>✓ Clicked generate button</green>
+19:06:40 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Jennifer', 'last_name': 'Hansen', 'email': 'steven69@example.net', 'deadline_date': '06.08.2026'}, 'company': {'company_name': 'White Ltd', 'email': 'jmurray@example.org', 'deadline_date': '06.03.2026'}}
+19:06:40 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+19:06:40 | INFO | Waiting for LinksPage to be loaded
+19:06:41 | MANUAL | [32m✓ Search: Jennifer Hansen[0m

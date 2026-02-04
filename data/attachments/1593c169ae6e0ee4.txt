@@ -1,0 +1,10 @@
+19:09:11 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+19:09:11 | INFO | Waiting for WorkflowPage to be loaded
+19:09:12 | MANUAL | [32mGenerated natural_person link info: {'first_name': 'Christina', 'last_name': 'Burns', 'email': 'westandrew@example.net', 'deadline_date': '22.12.2026'}[0m
+19:09:12 | INFO | Generating form with {'first_name': 'Christina', 'last_name': 'Burns', 'email': 'user@.com', 'deadline_date': '22.12.2026'}
+19:09:12 | INFO | Waiting for GenerateModal to be loaded
+19:09:12 | INFO | <green>✓ Filled first name: Christina</green>
+19:09:12 | INFO | <green>✓ Filled last name: Burns</green>
+19:09:12 | INFO | <green>✓ Filled email: user@.com</green>
+19:09:12 | INFO | <green>✓ Set deadline date: 22/12/2026</green>
+19:09:12 | INFO | <green>✓ Clicked generate button</green>

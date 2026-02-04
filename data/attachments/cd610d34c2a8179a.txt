@@ -1,0 +1,13 @@
+19:06:28 | INFO | Performing session-level authentication...
+19:06:28 | INFO | Opening page SignInPage at https://test.detelio.ai
+19:06:28 | INFO | Waiting for SignInPage to be loaded
+19:06:30 | INFO | ✓ Entering username
+19:06:30 | INFO | ✓ Entering password
+19:06:30 | INFO | ✓ Clicking login button
+19:06:30 | INFO | ✓ Verifying login success
+19:06:30 | INFO | ✓ Authentication successful. State saved to state/auth_state.json
+19:06:31 | INFO | Opening page AdminPage at https://test.detelio.ai
+19:06:31 | INFO | Waiting for AdminPage to be loaded
+19:06:32 | INFO | Navigating to links
+19:06:32 | ERROR | Browser Console error: Failed to load resource: the server responded with a status of 404 (Not Found)
+19:06:32 | INFO | Waiting for LinksPage to be loaded

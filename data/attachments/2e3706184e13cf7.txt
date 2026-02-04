@@ -1,0 +1,5 @@
+19:07:42 | INFO | Opening page AdminPage at https://test.detelio.ai
+19:07:42 | INFO | Waiting for AdminPage to be loaded
+19:07:43 | INFO | Navigating to workflows
+19:07:43 | ERROR | Browser Console error: Failed to load resource: the server responded with a status of 404 (Not Found)
+19:07:43 | INFO | Waiting for WorkflowPage to be loaded

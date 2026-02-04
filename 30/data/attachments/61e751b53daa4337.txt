@@ -1,0 +1,1 @@
+19:06:40 | INFO | <green>✓ Filled company name: White Ltd</green>

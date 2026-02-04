@@ -1,0 +1,1 @@
+19:07:42 | INFO | Opening page AdminPage at https://test.detelio.ai
