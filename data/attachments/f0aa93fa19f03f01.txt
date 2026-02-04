@@ -1,0 +1,1 @@
+18:55:19 | INFO | Generating form with {'company_name': 'Elliott, Vasquez and Jones', 'email': 'user@', 'deadline_date': '31.12.2026'}

@@ -1,0 +1,18 @@
+18:52:50 | INFO | Generating session-level links (Natural Person and Company)...
+18:52:50 | INFO | Opening login page
+18:52:51 | INFO | Generating form with {'first_name': 'Joel', 'last_name': 'Hanna', 'email': 'robertmcdaniel@example.com', 'deadline_date': '07.11.2026'}
+18:52:51 | INFO | Waiting for page to be loaded
+18:52:52 | INFO | <green>✓ Filled first name: Joel</green>
+18:52:52 | INFO | <green>✓ Filled last name: Hanna</green>
+18:52:52 | INFO | <green>✓ Filled email: robertmcdaniel@example.com</green>
+18:52:52 | INFO | <green>✓ Set deadline date: 07/11/2026</green>
+18:52:52 | INFO | <green>✓ Clicked generate button</green>
+18:52:53 | INFO | Generating form with {'company_name': 'Mayer, Hart and Holden', 'email': 'bryanallen@example.org', 'deadline_date': '14.12.2026'}
+18:52:53 | INFO | Waiting for page to be loaded
+18:52:54 | INFO | <green>✓ Filled company name: Mayer, Hart and Holden</green>
+18:52:54 | INFO | <green>✓ Filled email: bryanallen@example.org</green>
+18:52:55 | INFO | <green>✓ Set deadline date: 14/12/2026</green>
+18:52:55 | INFO | <green>✓ Clicked generate button</green>
+18:52:55 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Joel', 'last_name': 'Hanna', 'email': 'robertmcdaniel@example.com', 'deadline_date': '07.11.2026'}, 'company': {'company_name': 'Mayer, Hart and Holden', 'email': 'bryanallen@example.org', 'deadline_date': '14.12.2026'}}
+18:52:55 | INFO | Opening login page
+18:52:56 | MANUAL | [32m✓ Search: Joel Hanna[0m

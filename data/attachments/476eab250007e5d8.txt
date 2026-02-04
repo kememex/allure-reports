@@ -1,0 +1,3 @@
+18:54:10 | INFO | Opening login page
+18:54:12 | MANUAL | [32m✓ Selected search option: Email[0m
+18:54:12 | MANUAL | [32m✓ Search: bryanallen@example.org[0m

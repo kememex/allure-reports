@@ -1,0 +1,2 @@
+18:53:12 | INFO | Opening login page
+18:53:13 | INFO | ✓ Set deadline date range filter: 07.11.2026 - 07.11.2026

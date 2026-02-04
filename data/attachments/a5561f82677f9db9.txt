@@ -1,0 +1,1 @@
+18:54:50 | INFO | <green>✓ Filled company name: </green>

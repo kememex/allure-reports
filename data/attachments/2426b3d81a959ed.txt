@@ -1,0 +1,9 @@
+18:54:56 | INFO | Opening login page
+18:54:57 | MANUAL | [32mGenerated company link info: {'company_name': 'Reilly Group', 'email': 'andrewjones@example.com', 'deadline_date': '01.01.2027'}[0m
+18:54:58 | INFO | Generating form with {'company_name': 'Reilly Group', 'email': 'andrewjones@example.com', 'deadline_date': '01.01.2027'}
+18:54:58 | INFO | Waiting for page to be loaded
+18:54:59 | INFO | <green>✓ Filled company name: Reilly Group</green>
+18:54:59 | INFO | <green>✓ Filled email: andrewjones@example.com</green>
+18:54:59 | INFO | <green>✓ Set deadline date: 01/01/2027</green>
+18:54:59 | INFO | <green>✓ Clicked generate button</green>
+18:55:01 | INFO | Navigating to links

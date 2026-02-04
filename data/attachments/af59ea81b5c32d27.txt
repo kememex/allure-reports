@@ -1,0 +1,3 @@
+18:53:04 | INFO | Opening login page
+18:53:06 | MANUAL | [32m✓ Selected search option: Email[0m
+18:53:06 | MANUAL | [32m✓ Search: rober[0m

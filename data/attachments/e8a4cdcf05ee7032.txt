@@ -1,0 +1,4 @@
+18:53:07 | INFO | Opening login page
+18:53:10 | MANUAL | [32m✓ Search: Mayer, Hart and Holden[0m
+18:53:11 | MANUAL | [32m✓ Cleared search[0m
+18:53:11 | MANUAL | [32m✓ Search: Joel Hanna[0m

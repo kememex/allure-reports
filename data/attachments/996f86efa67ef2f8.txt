@@ -1,0 +1,8 @@
+18:54:53 | INFO | Opening login page
+18:54:53 | MANUAL | [32mGenerated company link info: {'company_name': 'Miller, Yu and Mason', 'email': 'chapmangary@example.com', 'deadline_date': '20.01.2027'}[0m
+18:54:55 | INFO | Generating form with {'company_name': 'Miller, Yu and Mason', 'email': 'chapmangary@example.com', 'deadline_date': '03.02.2026'}
+18:54:55 | INFO | Waiting for page to be loaded
+18:54:56 | INFO | <green>✓ Filled company name: Miller, Yu and Mason</green>
+18:54:56 | INFO | <green>✓ Filled email: chapmangary@example.com</green>
+18:54:56 | INFO | <green>✓ Set deadline date: 03/02/2026</green>
+18:54:56 | INFO | <green>✓ Clicked generate button</green>

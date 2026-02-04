@@ -1,0 +1,2 @@
+18:54:13 | INFO | Opening login page
+18:54:15 | MANUAL | [32m✓ Search: May[0m

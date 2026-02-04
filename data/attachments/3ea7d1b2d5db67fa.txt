@@ -1,0 +1,8 @@
+18:54:50 | INFO | Opening login page
+18:54:50 | MANUAL | [32mGenerated company link info: {'company_name': 'Brown-Harris', 'email': 'jenniferknight@example.com', 'deadline_date': '24.05.2026'}[0m
+18:54:52 | INFO | Generating form with {'company_name': 'Brown-Harris', 'email': 'exmaple.com', 'deadline_date': '24.05.2026'}
+18:54:52 | INFO | Waiting for page to be loaded
+18:54:53 | INFO | <green>✓ Filled company name: Brown-Harris</green>
+18:54:53 | INFO | <green>✓ Filled email: exmaple.com</green>
+18:54:53 | INFO | <green>✓ Set deadline date: 24/05/2026</green>
+18:54:53 | INFO | <green>✓ Clicked generate button</green>

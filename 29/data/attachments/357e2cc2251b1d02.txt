@@ -1,0 +1,3 @@
+18:53:19 | INFO | Opening login page
+18:53:21 | MANUAL | [32m✓ Sorted by column: Deadline Date[0m
+18:53:21 | MANUAL | [32m✓ Sorted by column: Deadline Date[0m

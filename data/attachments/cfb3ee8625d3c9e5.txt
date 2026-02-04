@@ -1,0 +1,8 @@
+18:55:25 | INFO | Opening login page
+18:55:25 | MANUAL | [32mGenerated company link info: {'company_name': 'Marshall, Joseph and Brown', 'email': 'anthonycolon@example.com', 'deadline_date': '14.12.2026'}[0m
+18:55:27 | INFO | Generating form with {'company_name': 'Marshall, Joseph and Brown', 'email': '@domain.com', 'deadline_date': '14.12.2026'}
+18:55:27 | INFO | Waiting for page to be loaded
+18:55:28 | INFO | <green>✓ Filled company name: Marshall, Joseph and Brown</green>
+18:55:28 | INFO | <green>✓ Filled email: @domain.com</green>
+18:55:28 | INFO | <green>✓ Set deadline date: 14/12/2026</green>
+18:55:28 | INFO | <green>✓ Clicked generate button</green>

@@ -1,0 +1,3 @@
+18:54:16 | INFO | Opening login page
+18:54:18 | MANUAL | [32m✓ Selected search option: Email[0m
+18:54:18 | MANUAL | [32m✓ Search: bryan[0m

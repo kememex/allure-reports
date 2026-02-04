@@ -1,0 +1,1 @@
+18:54:52 | INFO | Generating form with {'company_name': 'Brown-Harris', 'email': 'exmaple.com', 'deadline_date': '24.05.2026'}
