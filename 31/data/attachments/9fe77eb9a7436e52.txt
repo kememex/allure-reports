@@ -1,0 +1,7 @@
+17:27:11 | INFO | Performing session-level authentication...
+17:27:11 | INFO | Opening page SignInPage at https://test.detelio.ai
+17:27:12 | INFO | Waiting for SignInPage to be loaded
+17:27:14 | INFO | ✓ Entering username
+17:27:14 | INFO | ✓ Entering password
+17:27:14 | INFO | ✓ Clicking login button
+17:27:14 | INFO | ✓ Verifying login success
