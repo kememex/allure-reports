@@ -1,0 +1,1 @@
+18:00:51 | INFO | <green>✓ Selected product: autotest_product</green>

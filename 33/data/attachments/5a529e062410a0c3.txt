@@ -1,0 +1,24 @@
+18:00:49 | INFO | Generating session-level links (Natural Person and Company)...
+18:00:49 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+18:00:49 | INFO | Waiting for WorkflowPage to be loaded
+18:00:50 | INFO | Generating form with {'first_name': 'Kimberly', 'last_name': 'Wilkinson', 'email': 'linda36@example.com', 'deadline_date': '24.03.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+18:00:50 | INFO | Waiting for GenerateModal to be loaded
+18:00:50 | INFO | <green>✓ Filled first name: Kimberly</green>
+18:00:50 | INFO | <green>✓ Filled last name: Wilkinson</green>
+18:00:50 | INFO | <green>✓ Filled email: linda36@example.com</green>
+18:00:51 | INFO | <green>✓ Selected product: autotest_product</green>
+18:00:52 | INFO | <green>✓ Selected entity: test_comp</green>
+18:00:52 | INFO | <green>✓ Set deadline date: 24/03/2026</green>
+18:00:52 | INFO | <green>✓ Clicked generate button</green>
+18:00:54 | INFO | Generating form with {'company_name': 'Wilson LLC', 'email': 'bmorgan@example.com', 'deadline_date': '01.09.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+18:00:54 | INFO | Waiting for GenerateModal to be loaded
+18:00:55 | INFO | <green>✓ Filled company name: Wilson LLC</green>
+18:00:55 | INFO | <green>✓ Filled email: bmorgan@example.com</green>
+18:00:55 | INFO | <green>✓ Selected product: autotest_product</green>
+18:00:56 | INFO | <green>✓ Selected entity: test_comp</green>
+18:00:56 | INFO | <green>✓ Set deadline date: 01/09/2026</green>
+18:00:56 | INFO | <green>✓ Clicked generate button</green>
+18:00:56 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Kimberly', 'last_name': 'Wilkinson', 'email': 'linda36@example.com', 'deadline_date': '24.03.2026', 'product': 'autotest_product', 'entity': 'test_comp'}, 'company': {'company_name': 'Wilson LLC', 'email': 'bmorgan@example.com', 'deadline_date': '01.09.2026', 'product': 'autotest_product', 'entity': 'test_comp'}}
+18:00:57 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+18:00:57 | INFO | Waiting for LinksPage to be loaded
+18:00:58 | MANUAL | [32m✓ Search: Kimberly Wilkinson[0m

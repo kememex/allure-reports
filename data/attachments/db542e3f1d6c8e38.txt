@@ -1,0 +1,1 @@
+18:03:14 | MANUAL | Generated company link info: {'company_name': 'Pope Inc', 'email': 'procha@example.net', 'deadline_date': '08.02.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

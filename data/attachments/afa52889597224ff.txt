@@ -1,0 +1,8 @@
+18:03:02 | INFO | Creating clean context (No Auth)
+18:03:02 | INFO | Opening page SignInPage at https://test.detelio.ai/sign-in
+18:03:02 | INFO | Waiting for SignInPage to be loaded
+18:03:03 | ERROR | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+18:03:04 | INFO | ✓ Entering username
+18:03:04 | INFO | ✓ Entering password
+18:03:04 | INFO | ✓ Clicking login button
+18:03:04 | INFO | ✓ Verifying login success

@@ -1,0 +1,3 @@
+18:01:25 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+18:01:25 | INFO | Waiting for LinksPage to be loaded
+18:01:27 | INFO | ✓ Set deadline date range filter: 24.03.2026 - 24.03.2026

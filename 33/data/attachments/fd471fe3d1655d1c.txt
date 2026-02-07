@@ -1,0 +1,3 @@
+18:02:05 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+18:02:06 | INFO | Waiting for WorkflowPage to be loaded
+18:02:07 | INFO | Waiting for GenerateModal to be loaded

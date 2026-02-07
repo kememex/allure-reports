@@ -1,0 +1,1 @@
+18:04:05 | INFO | Generating form with {'company_name': 'West Group', 'email': 'user@.com', 'deadline_date': '27.02.2026', 'product': 'autotest_product', 'entity': 'test_comp'}

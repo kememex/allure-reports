@@ -1,0 +1,3 @@
+18:01:02 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+18:01:02 | INFO | Waiting for LinksPage to be loaded
+18:01:04 | MANUAL | [32m✓ Search: Kim[0m

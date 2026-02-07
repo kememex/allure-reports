@@ -1,0 +1,2 @@
+18:02:41 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+18:02:41 | INFO | Waiting for LinksPage to be loaded

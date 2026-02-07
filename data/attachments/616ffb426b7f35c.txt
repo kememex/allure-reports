@@ -1,0 +1,1 @@
+18:02:01 | INFO | Waiting for SignUpPage to be loaded
