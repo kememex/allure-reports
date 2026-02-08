@@ -1,0 +1,11 @@
+13:16:25 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+13:16:25 | INFO | Waiting for WorkflowPage to be loaded
+13:16:26 | MANUAL | [32mGenerated company link info: {'company_name': 'Powell LLC', 'email': 'johnsonvictoria@example.org', 'deadline_date': '08.08.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}[0m
+13:16:26 | INFO | Generating form with {'company_name': '', 'email': '', 'deadline_date': '', 'product': 'autotest_product', 'entity': 'test_comp'}
+13:16:26 | INFO | Waiting for GenerateModal to be loaded
+13:16:27 | INFO | <green>✓ Filled company name: </green>
+13:16:27 | INFO | <green>✓ Filled email: </green>
+13:16:28 | INFO | <green>✓ Selected product: autotest_product</green>
+13:16:28 | INFO | <green>✓ Selected entity: test_comp</green>
+13:16:28 | INFO | <green>✓ Set deadline date: //</green>
+13:16:29 | INFO | <green>✓ Clicked generate button</green>

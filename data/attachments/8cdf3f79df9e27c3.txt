@@ -1,0 +1,1 @@
+13:15:13 | INFO | Opening page SignUpPage at https://test.detelio.ai/sign-up

@@ -1,0 +1,1 @@
+13:17:14 | MANUAL | Generated natural_person link info: {'first_name': 'Joshua', 'last_name': 'Gonzalez', 'email': 'yhensley@example.com', 'deadline_date': '07.10.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

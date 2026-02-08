@@ -1,0 +1,4 @@
+13:15:22 | INFO | Opening page AdminPage at https://test.detelio.ai
+13:15:22 | INFO | Waiting for AdminPage to be loaded
+13:15:24 | INFO | Navigating to workflows
+13:15:24 | INFO | Waiting for WorkflowPage to be loaded

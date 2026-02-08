@@ -1,0 +1,24 @@
+13:14:10 | INFO | Generating session-level links (Natural Person and Company)...
+13:14:10 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+13:14:10 | INFO | Waiting for WorkflowPage to be loaded
+13:14:11 | INFO | Generating form with {'first_name': 'Angel', 'last_name': 'Allen', 'email': 'shanenoble@example.com', 'deadline_date': '12.11.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+13:14:11 | INFO | Waiting for GenerateModal to be loaded
+13:14:12 | INFO | <green>✓ Filled first name: Angel</green>
+13:14:12 | INFO | <green>✓ Filled last name: Allen</green>
+13:14:12 | INFO | <green>✓ Filled email: shanenoble@example.com</green>
+13:14:12 | INFO | <green>✓ Selected product: autotest_product</green>
+13:14:13 | INFO | <green>✓ Selected entity: test_comp</green>
+13:14:13 | INFO | <green>✓ Set deadline date: 12/11/2026</green>
+13:14:13 | INFO | <green>✓ Clicked generate button</green>
+13:14:14 | INFO | Generating form with {'company_name': 'Reeves LLC', 'email': 'scott73@example.com', 'deadline_date': '24.10.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+13:14:14 | INFO | Waiting for GenerateModal to be loaded
+13:14:15 | INFO | <green>✓ Filled company name: Reeves LLC</green>
+13:14:15 | INFO | <green>✓ Filled email: scott73@example.com</green>
+13:14:16 | INFO | <green>✓ Selected product: autotest_product</green>
+13:14:17 | INFO | <green>✓ Selected entity: test_comp</green>
+13:14:17 | INFO | <green>✓ Set deadline date: 24/10/2026</green>
+13:14:17 | INFO | <green>✓ Clicked generate button</green>
+13:14:17 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Angel', 'last_name': 'Allen', 'email': 'shanenoble@example.com', 'deadline_date': '12.11.2026', 'product': 'autotest_product', 'entity': 'test_comp'}, 'company': {'company_name': 'Reeves LLC', 'email': 'scott73@example.com', 'deadline_date': '24.10.2026', 'product': 'autotest_product', 'entity': 'test_comp'}}
+13:14:17 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+13:14:17 | INFO | Waiting for LinksPage to be loaded
+13:14:19 | MANUAL | [32m✓ Search: Angel Allen[0m

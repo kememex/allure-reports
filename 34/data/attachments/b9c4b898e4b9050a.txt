@@ -1,0 +1,1 @@
+13:17:10 | INFO | Generating form with {'company_name': 'Wagner-Singh', 'email': '@domain.com', 'deadline_date': '20.01.2027', 'product': 'autotest_product', 'entity': 'test_comp'}

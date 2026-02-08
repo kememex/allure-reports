@@ -1,0 +1,3 @@
+13:15:48 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+13:15:48 | INFO | Waiting for LinksPage to be loaded
+13:15:49 | MANUAL | [32m✓ Search: Ree[0m
