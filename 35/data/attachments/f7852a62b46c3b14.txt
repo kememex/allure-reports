@@ -1,0 +1,4 @@
+15:29:19 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+15:29:19 | INFO | Waiting for LinksPage to be loaded
+15:29:20 | MANUAL | [32m✓ Sorted by column: Deadline Date[0m
+15:29:21 | MANUAL | [32m✓ Sorted by column: Deadline Date[0m

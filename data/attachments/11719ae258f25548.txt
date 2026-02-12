@@ -1,0 +1,1 @@
+15:31:46 | MANUAL | Generated company link info: {'company_name': 'Simpson PLC', 'email': 'tracycarroll@example.org', 'deadline_date': '17.12.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

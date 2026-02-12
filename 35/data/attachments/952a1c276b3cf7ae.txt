@@ -1,0 +1,15 @@
+15:28:26 | INFO | Performing session-level authentication...
+15:28:26 | INFO | Opening page SignInPage at https://test.detelio.ai
+15:28:26 | INFO | Waiting for SignInPage to be loaded
+15:28:28 | INFO | ✓ Entering username
+15:28:28 | INFO | ✓ Entering password
+15:28:28 | INFO | ✓ Clicking login button
+15:28:28 | INFO | ✓ Verifying login success
+15:28:29 | INFO | ✓ Authentication successful. State saved to state/auth_state.json
+15:28:29 | INFO | Performing session-level data setup via API: https://test-api.detelio.ai
+15:28:30 | INFO | Product already exists: autotest_product
+15:28:30 | INFO | Entity already exists: test_comp
+15:28:30 | INFO | Opening page AdminPage at https://test.detelio.ai
+15:28:30 | INFO | Waiting for AdminPage to be loaded
+15:28:31 | INFO | Navigating to links
+15:28:32 | INFO | Waiting for LinksPage to be loaded

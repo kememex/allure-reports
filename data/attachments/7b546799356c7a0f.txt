@@ -1,0 +1,4 @@
+15:30:14 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+15:30:14 | INFO | Waiting for LinksPage to be loaded
+15:30:16 | MANUAL | [32m✓ Selected search option: Email[0m
+15:30:16 | MANUAL | [32m✓ Search: john41@example.org[0m

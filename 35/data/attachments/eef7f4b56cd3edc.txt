@@ -1,0 +1,1 @@
+15:30:08 | INFO | <green>✓ Selected entity: test_comp</green>

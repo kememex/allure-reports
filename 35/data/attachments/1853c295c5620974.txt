@@ -1,0 +1,24 @@
+15:28:35 | INFO | Generating session-level links (Natural Person and Company)...
+15:28:36 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+15:28:36 | INFO | Waiting for WorkflowPage to be loaded
+15:28:37 | INFO | Generating form with {'first_name': 'Dwayne', 'last_name': 'Browning', 'email': 'garretttimothy@example.com', 'deadline_date': '20.05.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+15:28:37 | INFO | Waiting for GenerateModal to be loaded
+15:28:37 | INFO | <green>✓ Filled first name: Dwayne</green>
+15:28:37 | INFO | <green>✓ Filled last name: Browning</green>
+15:28:37 | INFO | <green>✓ Filled email: garretttimothy@example.com</green>
+15:28:38 | INFO | <green>✓ Selected product: autotest_product</green>
+15:28:39 | INFO | <green>✓ Selected entity: test_comp</green>
+15:28:39 | INFO | <green>✓ Set deadline date: 20/05/2026</green>
+15:28:39 | INFO | <green>✓ Clicked generate button</green>
+15:28:40 | INFO | Generating form with {'company_name': 'Olson-Ortiz', 'email': 'john41@example.org', 'deadline_date': '05.01.2027', 'product': 'autotest_product', 'entity': 'test_comp'}
+15:28:40 | INFO | Waiting for GenerateModal to be loaded
+15:28:42 | INFO | <green>✓ Filled company name: Olson-Ortiz</green>
+15:28:42 | INFO | <green>✓ Filled email: john41@example.org</green>
+15:28:42 | INFO | <green>✓ Selected product: autotest_product</green>
+15:28:43 | INFO | <green>✓ Selected entity: test_comp</green>
+15:28:43 | INFO | <green>✓ Set deadline date: 05/01/2027</green>
+15:28:43 | INFO | <green>✓ Clicked generate button</green>
+15:28:43 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Dwayne', 'last_name': 'Browning', 'email': 'garretttimothy@example.com', 'deadline_date': '20.05.2026', 'product': 'autotest_product', 'entity': 'test_comp'}, 'company': {'company_name': 'Olson-Ortiz', 'email': 'john41@example.org', 'deadline_date': '05.01.2027', 'product': 'autotest_product', 'entity': 'test_comp'}}
+15:28:43 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+15:28:44 | INFO | Waiting for LinksPage to be loaded
+15:28:45 | MANUAL | [32m✓ Search: Dwayne Browning[0m

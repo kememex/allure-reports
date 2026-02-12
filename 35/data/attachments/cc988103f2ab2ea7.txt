@@ -1,0 +1,12 @@
+15:31:31 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+15:31:32 | INFO | Waiting for WorkflowPage to be loaded
+15:31:33 | MANUAL | [32mGenerated natural_person link info: {'first_name': 'Pamela', 'last_name': 'Peterson', 'email': 'johnhunter@example.org', 'deadline_date': '11.04.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}[0m
+15:31:33 | INFO | Generating form with {'first_name': 'Pamela', 'last_name': 'Peterson', 'email': '@domain.com', 'deadline_date': '11.04.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+15:31:33 | INFO | Waiting for GenerateModal to be loaded
+15:31:33 | INFO | <green>✓ Filled first name: Pamela</green>
+15:31:33 | INFO | <green>✓ Filled last name: Peterson</green>
+15:31:33 | INFO | <green>✓ Filled email: @domain.com</green>
+15:31:34 | INFO | <green>✓ Selected product: autotest_product</green>
+15:31:35 | INFO | <green>✓ Selected entity: test_comp</green>
+15:31:35 | INFO | <green>✓ Set deadline date: 11/04/2026</green>
+15:31:35 | INFO | <green>✓ Clicked generate button</green>

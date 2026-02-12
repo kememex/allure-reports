@@ -1,0 +1,1 @@
+15:31:27 | INFO | Generating form with {'company_name': 'Smith, Wright and Summers', 'email': 'user@', 'deadline_date': '21.06.2026', 'product': 'autotest_product', 'entity': 'test_comp'}

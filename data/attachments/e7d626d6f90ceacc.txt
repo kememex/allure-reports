@@ -1,0 +1,1 @@
+15:31:46 | INFO | Generating form with {'company_name': 'Simpson PLC', 'email': 'user@.com', 'deadline_date': '17.12.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
