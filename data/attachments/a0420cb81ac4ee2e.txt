@@ -1,0 +1,5 @@
+10:04:08 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+10:04:08 | INFO | Waiting for LinksPage to be loaded
+10:04:11 | MANUAL | [32m✓ Search: Nathan Escobar[0m
+10:04:12 | MANUAL | [32m✓ Cleared search[0m
+10:04:12 | MANUAL | [32m✓ Search: Lara Inc[0m

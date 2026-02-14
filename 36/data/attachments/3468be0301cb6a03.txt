@@ -1,0 +1,4 @@
+10:02:19 | INFO | Waiting for CorporateGeneralPage to be loaded
+10:02:19 | INFO | Found 11 sections on the page
+10:02:26 | INFO | Clicking Submit Application button
+10:02:27 | INFO | Found 11 sections on the page

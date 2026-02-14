@@ -1,0 +1,1 @@
+10:02:19 | INFO | Found invalid tabs: ['General', '0%', 'Persons', '0%', 'Documents', '0%', 'FATCA and CRS', '0%']

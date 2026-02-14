@@ -1,0 +1,4 @@
+10:02:34 | INFO | Opening page AdminPage at https://test.detelio.ai
+10:02:34 | INFO | Waiting for AdminPage to be loaded
+10:02:35 | INFO | Navigating to links
+10:02:36 | INFO | Waiting for LinksPage to be loaded

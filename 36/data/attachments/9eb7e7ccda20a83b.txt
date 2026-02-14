@@ -1,0 +1,3 @@
+10:03:56 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+10:03:56 | INFO | Waiting for LinksPage to be loaded
+10:03:57 | MANUAL | [32m✓ Search: Lara Inc[0m

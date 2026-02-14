@@ -1,0 +1,41 @@
+10:01:49 | INFO | Performing session-level authentication...
+10:01:49 | INFO | Opening page SignInPage at https://test.detelio.ai
+10:01:50 | INFO | Waiting for SignInPage to be loaded
+10:01:51 | INFO | ✓ Entering username
+10:01:51 | INFO | ✓ Entering password
+10:01:51 | INFO | ✓ Clicking login button
+10:01:51 | INFO | ✓ Verifying login success
+10:01:52 | INFO | ✓ Authentication successful. State saved to state/auth_state.json
+10:01:52 | INFO | Performing session-level data setup via API: https://test-api.detelio.ai
+10:01:53 | INFO | Product already exists: autotest_product
+10:01:53 | INFO | Entity already exists: test_comp
+10:01:53 | INFO | Generating session-level links (Natural Person and Company)...
+10:01:53 | INFO | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+10:01:53 | INFO | Waiting for WorkflowPage to be loaded
+10:01:54 | INFO | Generating form with {'first_name': 'Nathan', 'last_name': 'Escobar', 'email': 'woodandrew@example.com', 'deadline_date': '11.05.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+10:01:54 | INFO | Waiting for GenerateModal to be loaded
+10:01:54 | INFO | <green>✓ Filled first name: Nathan</green>
+10:01:54 | INFO | <green>✓ Filled last name: Escobar</green>
+10:01:54 | INFO | <green>✓ Filled email: woodandrew@example.com</green>
+10:01:55 | INFO | <green>✓ Selected product: autotest_product</green>
+10:01:56 | INFO | <green>✓ Selected entity: test_comp</green>
+10:01:56 | INFO | <green>✓ Set deadline date: 11/05/2026</green>
+10:01:57 | INFO | <green>✓ Clicked generate button</green>
+10:01:58 | INFO | Generating form with {'company_name': 'Lara Inc', 'email': 'david36@example.org', 'deadline_date': '06.09.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+10:01:58 | INFO | Waiting for GenerateModal to be loaded
+10:01:59 | INFO | <green>✓ Filled company name: Lara Inc</green>
+10:01:59 | INFO | <green>✓ Filled email: david36@example.org</green>
+10:02:00 | INFO | <green>✓ Selected product: autotest_product</green>
+10:02:01 | INFO | <green>✓ Selected entity: test_comp</green>
+10:02:01 | INFO | <green>✓ Set deadline date: 06/09/2026</green>
+10:02:01 | INFO | <green>✓ Clicked generate button</green>
+10:02:01 | INFO | ✓ Session links generated successfully: {'natural_person': {'first_name': 'Nathan', 'last_name': 'Escobar', 'email': 'woodandrew@example.com', 'deadline_date': '11.05.2026', 'product': 'autotest_product', 'entity': 'test_comp'}, 'company': {'company_name': 'Lara Inc', 'email': 'david36@example.org', 'deadline_date': '06.09.2026', 'product': 'autotest_product', 'entity': 'test_comp'}}
+10:02:01 | INFO | Retrieving workflow link for company: Lara Inc
+10:02:02 | INFO | Opening page LinksPage at https://test.detelio.ai/workflows/links
+10:02:02 | INFO | Waiting for LinksPage to be loaded
+10:02:03 | INFO | Waiting for LinksPage to be loaded
+10:02:05 | INFO | <green>✓ Copied workflow link: https://test.detelio.ai/verification/73b3f2038b3a8e420d8c39fca4659d83f8e6d5907bff81a233b7ded2622fd5910094de18adcd460ce61ed4f3841818994ea8a8c55e362c9d80ba16d6de00913e</green>
+10:02:05 | INFO | <green>✓ Retrieved workflow link for session: https://test.detelio.ai/verification/73b3f2038b3a8e420d8c39fca4659d83f8e6d5907bff81a233b7ded2622fd5910094de18adcd460ce61ed4f3841818994ea8a8c55e362c9d80ba16d6de00913e</green>
+10:02:05 | INFO | Using workflow link: https://test.detelio.ai/verification/73b3f2038b3a8e420d8c39fca4659d83f8e6d5907bff81a233b7ded2622fd5910094de18adcd460ce61ed4f3841818994ea8a8c55e362c9d80ba16d6de00913e
+10:02:05 | INFO | Waiting for CorporateGeneralPage to be loaded
+10:02:05 | INFO | Found 11 sections on the page

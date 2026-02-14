@@ -1,0 +1,6 @@
+10:02:12 | INFO | Waiting for CorporateGeneralPage to be loaded
+10:02:12 | INFO | Found 11 sections on the page
+10:02:18 | INFO | Clicking Submit Application button
+10:02:19 | INFO | Found invalid tabs: ['General', '0%', 'Persons', '0%', 'Documents', '0%', 'FATCA and CRS', '0%']
+10:02:19 | INFO | Found invalid sections: ['Company Basic Information', 'Registered Address', 'Company Trading Address', 'Regulation', 'Nature of Business', 'Purpose and Anticipated Level of Business with Detelio', 'Source of Wealth', 'Source of Funds', 'Declarations and Consents', 'Capacity', 'Additional information']
+10:02:19 | INFO | Found 11 sections on the page
