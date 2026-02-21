@@ -1,0 +1,105 @@
+2026-02-21 17:42:58 | INFO | conftest:auth_state | Performing session-level authentication...
+2026-02-21 17:42:58 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai
+2026-02-21 17:42:58 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-21 17:43:00 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-21 17:43:00 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-21 17:43:00 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-21 17:43:00 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-21 17:43:01 | INFO | conftest:auth_state | ✓ Authentication successful. State saved to state/auth_state.json
+2026-02-21 17:43:01 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai
+2026-02-21 17:43:02 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded
+2026-02-21 17:43:03 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links
+2026-02-21 17:43:03 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:04 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:04 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:05 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:06 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:09 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:09 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:19 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Susan Henderson
+2026-02-21 17:43:20 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:20 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:22 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-21 17:43:22 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: audrey01@example.com
+2026-02-21 17:43:23 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:23 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:25 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Sus
+2026-02-21 17:43:26 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:26 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:28 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-21 17:43:28 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: audre
+2026-02-21 17:43:29 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:30 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:33 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Manning, Brennan and Rodriguez
+2026-02-21 17:43:34 | MANUAL | framework.locators.admin_pages.links_page:clear_search | ✓ Cleared search
+2026-02-21 17:43:34 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Susan Henderson
+2026-02-21 17:43:35 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:35 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:36 | INFO | framework.locators.admin_pages.links_page:set_deadline_date_range_filter | ✓ Set deadline date range filter: 23.02.2026 - 23.02.2026
+2026-02-21 17:43:42 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:42 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:44 | MANUAL | framework.locators.admin_pages.links_page:sort_by_column | ✓ Sorted by column: Deadline Date
+2026-02-21 17:43:44 | MANUAL | framework.locators.admin_pages.links_page:sort_by_column | ✓ Sorted by column: Deadline Date
+2026-02-21 17:43:46 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:46 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:48 | INFO | framework.locators.admin_pages.links_page:copy_workflow_link | <green>✓ Copied workflow link: https://test.detelio.ai/verification/772c358286536ea16a95fb659eb70504d81a9977e0e8644107dc1493949e72b40b98a229f324691015b4eeef09d55890d1c05d66bc0f1a53d33adc5de8b882b1</green>
+2026-02-21 17:43:48 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 17:43:48 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 17:43:51 | INFO | framework.locators.admin_pages.links_page:click_profile_link | <green>✓ Clicked profile link</green>
+2026-02-21 17:43:51 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for ProfileDetailsPage to be loaded
+2026-02-21 17:43:52 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai
+2026-02-21 17:43:52 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded
+2026-02-21 17:43:53 | INFO | framework.locators.main_interfaces:navigate_to_workflows | Navigating to workflows
+2026-02-21 17:43:53 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-21 17:43:54 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-21 17:43:54 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-21 17:43:55 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-21 17:43:55 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-21 17:43:56 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-21 17:43:57 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Jesse', 'last_name': 'Strickland', 'email': 'pbrooks@example.net', 'deadline_date': '24.06.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:43:57 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': '', 'last_name': '', 'email': '', 'deadline_date': '', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:43:57 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-21 17:43:57 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: </green>
+2026-02-21 17:43:57 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: </green>
+2026-02-21 17:43:57 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: </green>
+2026-02-21 17:43:58 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-21 17:43:59 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-21 17:43:59 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: //</green>
+2026-02-21 17:43:59 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-21 17:43:59 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-21 17:43:59 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-21 17:44:01 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Molly', 'last_name': 'West', 'email': 'nicolestein@example.net', 'deadline_date': '03.01.2027'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:44:01 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': 'Molly', 'last_name': 'West', 'email': 'exmaple.com', 'deadline_date': '03.01.2027', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:44:01 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-21 17:44:01 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: Molly</green>
+2026-02-21 17:44:01 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: West</green>
+2026-02-21 17:44:01 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: exmaple.com</green>
+2026-02-21 17:44:02 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-21 17:44:02 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-21 17:44:02 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 03/01/2027</green>
+2026-02-21 17:44:03 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-21 17:44:03 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-21 17:44:03 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-21 17:44:04 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Scott', 'last_name': 'Colon', 'email': 'qtaylor@example.com', 'deadline_date': '07.07.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:44:04 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': 'Scott', 'last_name': 'Colon', 'email': 'qtaylor@example.com', 'deadline_date': '20.02.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:44:04 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-21 17:44:04 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: Scott</green>
+2026-02-21 17:44:05 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: Colon</green>
+2026-02-21 17:44:05 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: qtaylor@example.com</green>
+2026-02-21 17:44:05 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-21 17:44:06 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-21 17:44:06 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 20/02/2026</green>
+2026-02-21 17:44:06 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-21 17:44:06 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-21 17:44:07 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-21 17:44:08 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Mary', 'last_name': 'Simmons', 'email': 'powersalyssa@example.org', 'deadline_date': '29.12.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:44:08 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': 'Mary', 'last_name': 'Simmons', 'email': 'powersalyssa@example.org', 'deadline_date': '29.12.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-21 17:44:08 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-21 17:44:08 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: Mary</green>
+2026-02-21 17:44:08 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: Simmons</green>
+2026-02-21 17:44:08 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: powersalyssa@example.org</green>
+2026-02-21 17:44:09 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-21 17:44:10 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-21 17:44:10 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 29/12/2026</green>
+2026-02-21 17:44:10 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-21 17:44:12 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links

@@ -1,0 +1,1 @@
+17:44:50 | INFO | framework.locators.sign_in_page:login | ✓ Entering username

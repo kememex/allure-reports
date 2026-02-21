@@ -1,0 +1,4 @@
+17:43:52 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai
+17:43:52 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded
+17:43:53 | INFO | framework.locators.main_interfaces:navigate_to_workflows | Navigating to workflows
+17:43:53 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded

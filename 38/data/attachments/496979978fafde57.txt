@@ -1,0 +1,1 @@
+17:45:38 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>

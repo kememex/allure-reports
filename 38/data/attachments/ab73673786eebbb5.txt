@@ -1,0 +1,1 @@
+17:43:52 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai

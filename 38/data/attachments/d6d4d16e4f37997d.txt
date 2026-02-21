@@ -1,0 +1,1 @@
+17:46:40 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Mendoza, Flores and Smith', 'email': 'jenniferparker@example.net', 'deadline_date': '11.05.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

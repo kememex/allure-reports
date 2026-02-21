@@ -1,0 +1,4 @@
+17:45:30 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+17:45:31 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+17:45:33 | INFO | framework.locators.admin_pages.links_page:click_profile_link | <green>✓ Clicked profile link</green>
+17:45:33 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for ProfileDetailsPage to be loaded

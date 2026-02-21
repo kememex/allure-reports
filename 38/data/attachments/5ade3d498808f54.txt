@@ -1,0 +1,1 @@
+17:45:49 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Gardner LLC', 'email': 'christopherprice@example.org', 'deadline_date': '24.05.2026', 'product': 'autotest_product', 'entity': 'test_comp'}

@@ -1,0 +1,1 @@
+17:43:57 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: </green>

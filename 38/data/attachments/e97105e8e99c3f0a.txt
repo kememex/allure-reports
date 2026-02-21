@@ -1,0 +1,1 @@
+17:45:35 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Reyes, Stone and Zavala', 'email': 'jacob01@example.net', 'deadline_date': '23.10.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

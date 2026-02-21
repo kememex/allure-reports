@@ -1,0 +1,4 @@
+17:43:20 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+17:43:20 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+17:43:22 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | [32m✓ Selected search option: Email[0m
+17:43:22 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: audrey01@example.com[0m

@@ -1,0 +1,3 @@
+17:43:54 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+17:43:54 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+17:43:55 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded

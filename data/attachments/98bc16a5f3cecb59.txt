@@ -1,0 +1,5 @@
+17:43:29 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+17:43:30 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+17:43:33 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Manning, Brennan and Rodriguez[0m
+17:43:34 | MANUAL | framework.locators.admin_pages.links_page:clear_search | [32m✓ Cleared search[0m
+17:43:34 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Susan Henderson[0m

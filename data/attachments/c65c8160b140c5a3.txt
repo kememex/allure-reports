@@ -1,0 +1,1 @@
+17:45:01 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
