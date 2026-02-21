@@ -1,0 +1,1 @@
+15:46:55 | INFO | framework.locators.main_interfaces:navigate_to_workflows | Navigating to workflows

@@ -1,0 +1,5 @@
+15:48:24 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+15:48:25 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+15:48:28 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Wanda Ramirez[0m
+15:48:29 | MANUAL | framework.locators.admin_pages.links_page:clear_search | [32m✓ Cleared search[0m
+15:48:29 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Gross-Diaz[0m

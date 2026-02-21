@@ -1,0 +1,8 @@
+15:47:59 | INFO | public.conftest:context | Creating clean context (No Auth)
+15:47:59 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+15:47:59 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+15:48:00 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+15:48:00 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+15:48:01 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+15:48:01 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+15:48:01 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success

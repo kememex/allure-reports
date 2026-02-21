@@ -1,0 +1,38 @@
+2026-02-21 15:46:13 | INFO | conftest:auth_state | Performing session-level authentication...
+2026-02-21 15:46:13 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai
+2026-02-21 15:46:13 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-21 15:46:15 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-21 15:46:15 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-21 15:46:15 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-21 15:46:15 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-21 15:46:16 | INFO | conftest:auth_state | ✓ Authentication successful. State saved to state/auth_state.json
+2026-02-21 15:46:17 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai
+2026-02-21 15:46:17 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded
+2026-02-21 15:46:18 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links
+2026-02-21 15:46:18 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:19 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:19 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:21 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:21 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:24 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:24 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:26 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Wanda Ramirez
+2026-02-21 15:46:27 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:27 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:29 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-21 15:46:29 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: veronica21@example.com
+2026-02-21 15:46:30 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:30 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:31 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Wan
+2026-02-21 15:46:32 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:32 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:34 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-21 15:46:35 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: veron
+2026-02-21 15:46:35 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:35 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:38 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Gross-Diaz
+2026-02-21 15:46:39 | MANUAL | framework.locators.admin_pages.links_page:clear_search | ✓ Cleared search
+2026-02-21 15:46:39 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Wanda Ramirez
+2026-02-21 15:46:40 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-21 15:46:41 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-21 15:46:42 | INFO | framework.locators.admin_pages.links_page:set_deadline_date_range_filter | ✓ Set deadline date range filter: 24.04.2026 - 24.04.2026

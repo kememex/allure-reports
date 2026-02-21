@@ -1,0 +1,1 @@
+15:46:18 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links

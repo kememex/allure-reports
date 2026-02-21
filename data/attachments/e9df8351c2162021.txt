@@ -1,0 +1,1 @@
+15:48:21 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Gro

@@ -1,0 +1,2 @@
+URL: https://test-api.detelio.ai/entity?page=1&pageSize=100
+Status: 200

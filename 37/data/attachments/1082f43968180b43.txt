@@ -1,0 +1,1 @@
+15:49:40 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: user@.com</green>

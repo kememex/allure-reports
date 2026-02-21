@@ -1,0 +1,1 @@
+15:49:16 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Medina, Snyder and Sheppard', 'email': 'reedjoseph@example.com', 'deadline_date': '11.04.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

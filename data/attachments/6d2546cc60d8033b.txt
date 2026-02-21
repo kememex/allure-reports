@@ -1,0 +1,12 @@
+15:48:44 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+15:48:44 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+15:48:46 | MANUAL | admin.conftest:generate_link_info | [32mGenerated company link info: {'company_name': 'Flores-Sanders', 'email': 'melodychen@example.net', 'deadline_date': '14.11.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}[0m
+15:48:46 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Flores-Sanders', 'email': 'melodychen@example.net', 'deadline_date': '14.11.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+15:48:46 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+15:48:47 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Flores-Sanders</green>
+15:48:47 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: melodychen@example.net</green>
+15:48:48 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+15:48:48 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+15:48:48 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 14/11/2026</green>
+15:48:49 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+15:48:51 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links

@@ -1,0 +1,1 @@
+15:48:36 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Baker-Mcdaniel', 'email': 'exmaple.com', 'deadline_date': '30.06.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
