@@ -1,0 +1,1 @@
+20:01:34 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Mayer LLC</green>

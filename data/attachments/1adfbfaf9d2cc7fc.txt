@@ -1,0 +1,3 @@
+19:58:01 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+19:58:02 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+19:58:04 | INFO | framework.locators.admin_pages.links_page:copy_workflow_link | <green>✓ Copied workflow link: https://test.detelio.ai/verification/b8625446015f8551eb32cc59e85b589332bf1dc7c7658adf53e235b14802ccb1855f264e048c76761a5dffc5de2ffa494d00efdd0f0689ee7b0fde7ab94f03c8</green>

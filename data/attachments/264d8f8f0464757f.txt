@@ -1,0 +1,1 @@
+20:00:08 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Sosa, Harrell and Thompson', 'email': 'janetwilliams@example.com', 'deadline_date': '26.06.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

@@ -1,0 +1,1 @@
+20:00:13 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Parker Group', 'email': 'rasmussenjohn@example.net', 'deadline_date': '24.04.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

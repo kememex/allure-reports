@@ -1,0 +1,1 @@
+19:57:25 | INFO | conftest:auth_state | ✓ Authentication successful. State saved to state/auth_state.json

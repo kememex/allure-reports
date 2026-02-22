@@ -1,0 +1,4 @@
+19:59:06 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+19:59:06 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+19:59:14 | INFO | framework.elements.input_fields:select_date_via_calendar | <green>✓ Selected day 1 via calendar for Date of incorporation/Establishment</green>
+19:59:15 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button

@@ -1,0 +1,3 @@
+19:57:50 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+19:57:50 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+19:57:52 | INFO | framework.locators.admin_pages.links_page:set_deadline_date_range_filter | ✓ Set deadline date range filter: 16.05.2026 - 16.05.2026

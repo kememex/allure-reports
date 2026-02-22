@@ -1,0 +1,1 @@
+19:58:26 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>

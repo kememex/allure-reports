@@ -1,0 +1,373 @@
+2026-02-22 19:57:22 | INFO | conftest:auth_state | Performing session-level authentication...
+2026-02-22 19:57:22 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai
+2026-02-22 19:57:23 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:57:25 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-22 19:57:25 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-22 19:57:25 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-22 19:57:25 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-22 19:57:25 | INFO | conftest:auth_state | ✓ Authentication successful. State saved to state/auth_state.json
+2026-02-22 19:57:26 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai
+2026-02-22 19:57:26 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded
+2026-02-22 19:57:27 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links
+2026-02-22 19:57:28 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:28 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:29 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:30 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:30 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:33 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:34 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:35 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Steven Martinez
+2026-02-22 19:57:36 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:36 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:38 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-22 19:57:38 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: antoniowilson@example.net
+2026-02-22 19:57:39 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:39 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:40 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Ste
+2026-02-22 19:57:41 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:41 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:43 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-22 19:57:44 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: anton
+2026-02-22 19:57:45 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:45 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:48 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Stone PLC
+2026-02-22 19:57:49 | MANUAL | framework.locators.admin_pages.links_page:clear_search | ✓ Cleared search
+2026-02-22 19:57:49 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Steven Martinez
+2026-02-22 19:57:50 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:50 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:52 | INFO | framework.locators.admin_pages.links_page:set_deadline_date_range_filter | ✓ Set deadline date range filter: 16.05.2026 - 16.05.2026
+2026-02-22 19:57:57 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:57:57 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:57:59 | MANUAL | framework.locators.admin_pages.links_page:sort_by_column | ✓ Sorted by column: Deadline Date
+2026-02-22 19:57:59 | MANUAL | framework.locators.admin_pages.links_page:sort_by_column | ✓ Sorted by column: Deadline Date
+2026-02-22 19:58:01 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:58:02 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:58:04 | INFO | framework.locators.admin_pages.links_page:copy_workflow_link | <green>✓ Copied workflow link: https://test.detelio.ai/verification/b8625446015f8551eb32cc59e85b589332bf1dc7c7658adf53e235b14802ccb1855f264e048c76761a5dffc5de2ffa494d00efdd0f0689ee7b0fde7ab94f03c8</green>
+2026-02-22 19:58:04 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:58:05 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:58:07 | INFO | framework.locators.admin_pages.links_page:click_profile_link | <green>✓ Clicked profile link</green>
+2026-02-22 19:58:07 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for ProfileDetailsPage to be loaded
+2026-02-22 19:58:08 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai
+2026-02-22 19:58:08 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded
+2026-02-22 19:58:09 | INFO | framework.locators.main_interfaces:navigate_to_workflows | Navigating to workflows
+2026-02-22 19:58:10 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 19:58:10 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 19:58:10 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 19:58:12 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 19:58:12 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 19:58:12 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 19:58:14 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Samuel', 'last_name': 'Watson', 'email': 'davisdennis@example.net', 'deadline_date': '26.03.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:14 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': '', 'last_name': '', 'email': '', 'deadline_date': '', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:14 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 19:58:14 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: </green>
+2026-02-22 19:58:14 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: </green>
+2026-02-22 19:58:14 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: </green>
+2026-02-22 19:58:15 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 19:58:15 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 19:58:15 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: //</green>
+2026-02-22 19:58:16 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 19:58:16 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 19:58:16 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 19:58:17 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Jeremy', 'last_name': 'Summers', 'email': 'billy09@example.net', 'deadline_date': '20.09.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:17 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': 'Jeremy', 'last_name': 'Summers', 'email': 'exmaple.com', 'deadline_date': '20.09.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:17 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 19:58:18 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: Jeremy</green>
+2026-02-22 19:58:18 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: Summers</green>
+2026-02-22 19:58:18 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: exmaple.com</green>
+2026-02-22 19:58:18 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 19:58:19 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 19:58:19 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 20/09/2026</green>
+2026-02-22 19:58:20 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 19:58:20 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 19:58:20 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 19:58:21 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Christopher', 'last_name': 'Malone', 'email': 'williamwalker@example.net', 'deadline_date': '26.02.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:21 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': 'Christopher', 'last_name': 'Malone', 'email': 'williamwalker@example.net', 'deadline_date': '21.02.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:21 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 19:58:21 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: Christopher</green>
+2026-02-22 19:58:21 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: Malone</green>
+2026-02-22 19:58:21 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: williamwalker@example.net</green>
+2026-02-22 19:58:22 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 19:58:23 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 19:58:23 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 21/02/2026</green>
+2026-02-22 19:58:23 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 19:58:23 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 19:58:23 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 19:58:25 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Joshua', 'last_name': 'Payne', 'email': 'wolfjoseph@example.com', 'deadline_date': '03.07.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:25 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': 'Joshua', 'last_name': 'Payne', 'email': 'wolfjoseph@example.com', 'deadline_date': '03.07.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 19:58:25 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 19:58:25 | INFO | framework.locators.admin_pages.admin_modals:fill_first_name | <green>✓ Filled first name: Joshua</green>
+2026-02-22 19:58:25 | INFO | framework.locators.admin_pages.admin_modals:fill_last_name | <green>✓ Filled last name: Payne</green>
+2026-02-22 19:58:25 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: wolfjoseph@example.com</green>
+2026-02-22 19:58:25 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 19:58:26 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 19:58:26 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 03/07/2026</green>
+2026-02-22 19:58:26 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 19:58:28 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links
+2026-02-22 19:58:30 | INFO | forms.test_corporate_form_page:test_corporate_form_loads_correctly | Using workflow link: https://test.detelio.ai/verification/b8625446015f8551eb32cc59e85b589332bf1dc7c7658adf53e235b14802ccb1855f264e048c76761a5dffc5de2ffa494d00efdd0f0689ee7b0fde7ab94f03c8
+2026-02-22 19:58:30 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 19:58:30 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 19:58:30 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 19:58:37 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 19:58:37 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 19:58:37 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 19:58:43 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button
+2026-02-22 19:58:44 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_invalid_tabs | Found invalid tabs: ['General', '0%', 'Persons', '0%', 'Documents', '0%', 'FATCA and CRS', '0%']
+2026-02-22 19:58:44 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_invalid_sections | Found invalid sections: ['Company Basic Information', 'Registered Address', 'Company Trading Address', 'Regulation', 'Nature of Business', 'Purpose and Anticipated Level of Business with Detelio', 'Source of Wealth', 'Source of Funds', 'Declarations and Consents', 'Capacity', 'Additional information']
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 19:58:44 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 19:58:44 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 19:58:44 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 19:58:44 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 19:58:50 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 19:58:52 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 19:58:52 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 19:58:53 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 19:58:53 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 19:58:53 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 19:59:00 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button
+2026-02-22 19:59:06 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 19:59:06 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 19:59:06 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 19:59:14 | INFO | framework.elements.input_fields:select_date_via_calendar | <green>✓ Selected day 1 via calendar for Date of incorporation/Establishment</green>
+2026-02-22 19:59:15 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button
+2026-02-22 19:59:15 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:15 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:16 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:16 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:17 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:17 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:17 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:17 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:18 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-22 19:59:18 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-22 19:59:18 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-22 19:59:18 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-22 19:59:18 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 19:59:20 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:20 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:20 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:21 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:22 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-22 19:59:22 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-22 19:59:22 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-22 19:59:22 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-22 19:59:22 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:22 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:22 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:22 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:23 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-22 19:59:23 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-22 19:59:23 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-22 19:59:23 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-22 19:59:24 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 400 (Bad Request)
+2026-02-22 19:59:24 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:24 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:25 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:25 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:26 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-22 19:59:26 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-22 19:59:26 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-22 19:59:26 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-22 19:59:27 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 400 (Bad Request)
+2026-02-22 19:59:28 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:28 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:28 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:29 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:30 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+2026-02-22 19:59:30 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+2026-02-22 19:59:30 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+2026-02-22 19:59:30 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+2026-02-22 19:59:30 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:30 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:30 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:31 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:31 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:31 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+2026-02-22 19:59:31 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:32 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:32 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:33 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:33 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:33 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up
+2026-02-22 19:59:33 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:34 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:34 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:34 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:34 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up
+2026-02-22 19:59:34 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:35 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:35 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:35 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up
+2026-02-22 19:59:36 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:36 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:37 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:37 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up
+2026-02-22 19:59:37 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:37 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:38 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:38 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up
+2026-02-22 19:59:38 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:39 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:39 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:39 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up
+2026-02-22 19:59:40 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:40 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:41 | INFO | public.conftest:context | Creating clean context (No Auth)
+2026-02-22 19:59:41 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up
+2026-02-22 19:59:41 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded
+2026-02-22 19:59:41 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:42 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+2026-02-22 19:59:42 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:42 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+2026-02-22 19:59:42 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:59:43 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:59:44 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Stone PLC
+2026-02-22 19:59:45 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:59:45 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:59:47 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-22 19:59:47 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: alvaradojonathan@example.org
+2026-02-22 19:59:48 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:59:48 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:59:50 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Sto
+2026-02-22 19:59:51 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:59:51 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:59:53 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email
+2026-02-22 19:59:53 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: alvar
+2026-02-22 19:59:54 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:59:54 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 19:59:57 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Steven Martinez
+2026-02-22 19:59:58 | MANUAL | framework.locators.admin_pages.links_page:clear_search | ✓ Cleared search
+2026-02-22 19:59:58 | MANUAL | framework.locators.admin_pages.links_page:search_links | ✓ Search: Stone PLC
+2026-02-22 19:59:59 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+2026-02-22 19:59:59 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+2026-02-22 20:00:01 | INFO | framework.locators.admin_pages.links_page:click_profile_link | <green>✓ Clicked profile link</green>
+2026-02-22 20:00:01 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for ProfileDetailsPage to be loaded
+2026-02-22 20:00:02 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 20:00:02 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 20:00:04 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Ellis-Gonzales', 'email': 'mckenziejennifer@example.org', 'deadline_date': '21.11.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:04 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': '', 'email': '', 'deadline_date': '', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:04 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 20:00:05 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: </green>
+2026-02-22 20:00:05 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: </green>
+2026-02-22 20:00:05 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 20:00:06 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 20:00:06 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: //</green>
+2026-02-22 20:00:07 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 20:00:07 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 20:00:07 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 20:00:08 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Sosa, Harrell and Thompson', 'email': 'janetwilliams@example.com', 'deadline_date': '26.06.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:08 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Sosa, Harrell and Thompson', 'email': 'exmaple.com', 'deadline_date': '26.06.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:08 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 20:00:09 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Sosa, Harrell and Thompson</green>
+2026-02-22 20:00:09 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: exmaple.com</green>
+2026-02-22 20:00:10 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 20:00:11 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 20:00:11 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 26/06/2026</green>
+2026-02-22 20:00:11 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 20:00:11 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 20:00:11 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 20:00:13 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Parker Group', 'email': 'rasmussenjohn@example.net', 'deadline_date': '24.04.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:13 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Parker Group', 'email': 'rasmussenjohn@example.net', 'deadline_date': '21.02.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:13 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 20:00:14 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Parker Group</green>
+2026-02-22 20:00:14 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: rasmussenjohn@example.net</green>
+2026-02-22 20:00:14 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 20:00:15 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 20:00:15 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 21/02/2026</green>
+2026-02-22 20:00:16 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 20:00:16 | INFO | framework.locators.main_interfaces:open | Opening page WorkflowPage at https://test.detelio.ai/workflows/workflows
+2026-02-22 20:00:16 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for WorkflowPage to be loaded
+2026-02-22 20:00:17 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Wright, Ward and Long', 'email': 'nlopez@example.com', 'deadline_date': '04.12.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:17 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Wright, Ward and Long', 'email': 'nlopez@example.com', 'deadline_date': '04.12.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
+2026-02-22 20:00:17 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
+2026-02-22 20:00:19 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Wright, Ward and Long</green>
+2026-02-22 20:00:19 | INFO | framework.locators.admin_pages.admin_modals:fill_email | <green>✓ Filled email: nlopez@example.com</green>
+2026-02-22 20:00:19 | INFO | framework.locators.admin_pages.admin_modals:select_product | <green>✓ Selected product: autotest_product</green>
+2026-02-22 20:00:20 | INFO | framework.locators.admin_pages.admin_modals:select_entity | <green>✓ Selected entity: test_comp</green>
+2026-02-22 20:00:20 | INFO | framework.locators.admin_pages.admin_modals:set_deadline_date | <green>✓ Set deadline date: 04/12/2026</green>
+2026-02-22 20:00:20 | INFO | framework.locators.admin_pages.admin_modals:click_generate | <green>✓ Clicked generate button</green>
+2026-02-22 20:00:22 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links
+2026-02-22 20:00:24 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: company_info
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: registered_address
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: trading_address
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: regulation
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: nature_of_business
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: purpose_of_business
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_wealth
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: source_of_funds
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: declarations
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: capacity
+2026-02-22 20:00:24 | DEBUG | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found section: additional_info
+2026-02-22 20:00:24 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+2026-02-22 20:00:30 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button

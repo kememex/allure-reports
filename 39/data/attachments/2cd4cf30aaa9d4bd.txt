@@ -1,0 +1,1 @@
+20:01:25 | INFO | framework.locators.main_interfaces:open | Opening page SignUpPage at https://test.detelio.ai/sign-up

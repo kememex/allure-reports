@@ -1,0 +1,1 @@
+19:58:17 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'first_name': 'Jeremy', 'last_name': 'Summers', 'email': 'exmaple.com', 'deadline_date': '20.09.2026', 'product': 'autotest_product', 'entity': 'test_comp'}
