@@ -1,0 +1,1 @@
+13:23:41 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'York PLC', 'email': 'laranicole@example.org', 'deadline_date': '12.08.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

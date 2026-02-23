@@ -1,0 +1,1 @@
+13:24:33 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Chan, Ritter and Washington', 'email': 'williamseric@example.com', 'deadline_date': '24.11.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

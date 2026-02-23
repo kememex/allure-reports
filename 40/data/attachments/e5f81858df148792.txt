@@ -1,0 +1,1 @@
+13:24:55 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Lopez Ltd', 'email': '@domain.com', 'deadline_date': '28.10.2026', 'product': 'autotest_product', 'entity': 'test_comp'}

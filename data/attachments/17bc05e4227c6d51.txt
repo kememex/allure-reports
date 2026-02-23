@@ -1,0 +1,12 @@
+13:20:48 | INFO | conftest:auth_state | Performing session-level authentication...
+13:20:48 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai
+13:20:49 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+13:20:51 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+13:20:51 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+13:20:51 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+13:20:51 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+13:20:52 | INFO | conftest:auth_state | ✓ Authentication successful. State saved to /home/runner/work/detelio_autotests/detelio_autotests/state/auth_state.json
+13:20:52 | INFO | framework.locators.main_interfaces:open | Opening page AdminPage at https://test.detelio.ai
+13:20:52 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded
+13:20:53 | INFO | framework.locators.main_interfaces:navigate_to_links | Navigating to links
+13:20:54 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded

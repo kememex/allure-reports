@@ -1,0 +1,1 @@
+13:25:04 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Mccarthy-Morris', 'email': 'user@.com', 'deadline_date': '21.06.2026', 'product': 'autotest_product', 'entity': 'test_comp'}

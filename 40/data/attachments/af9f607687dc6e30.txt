@@ -1,0 +1,5 @@
+13:21:12 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+13:21:13 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+13:21:16 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Brown LLC[0m
+13:21:17 | MANUAL | framework.locators.admin_pages.links_page:clear_search | [32m✓ Cleared search[0m
+13:21:17 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Bernard White[0m

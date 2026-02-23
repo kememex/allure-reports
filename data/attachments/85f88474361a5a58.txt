@@ -1,0 +1,4 @@
+13:24:36 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+13:24:36 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+13:24:43 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button
+13:24:43 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button

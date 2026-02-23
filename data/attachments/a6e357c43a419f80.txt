@@ -1,0 +1,1 @@
+13:21:32 | INFO | framework.locators.admin_pages.links_page:copy_workflow_link | <green>✓ Copied workflow link: https://test.detelio.ai/verification/5020a86b816def4cbe2d1115bf54af6cda6d65526ec81cd8c103836a1dd8887ce9529b1f1bc6fc8cfb05a98e226e48c45e0e77e0f0d719797fb2a538edca45b3</green>

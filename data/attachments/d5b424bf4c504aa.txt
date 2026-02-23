@@ -1,0 +1,1 @@
+13:22:58 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button

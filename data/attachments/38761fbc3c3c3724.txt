@@ -1,0 +1,1 @@
+13:23:37 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Johnson-Morgan</green>

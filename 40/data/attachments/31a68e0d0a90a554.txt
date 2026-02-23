@@ -1,0 +1,1 @@
+13:24:36 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded

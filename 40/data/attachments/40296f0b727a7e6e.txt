@@ -1,0 +1,1 @@
+13:25:00 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for GenerateModal to be loaded
