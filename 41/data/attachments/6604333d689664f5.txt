@@ -1,0 +1,1 @@
+12:15:31 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Decker, Adams and Payne</green>

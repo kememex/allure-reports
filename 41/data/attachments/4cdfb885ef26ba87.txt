@@ -1,0 +1,5 @@
+12:15:15 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+12:15:15 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+12:15:19 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Joseph Wilson[0m
+12:15:20 | MANUAL | framework.locators.admin_pages.links_page:clear_search | [32m✓ Cleared search[0m
+12:15:20 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Kim Ltd[0m

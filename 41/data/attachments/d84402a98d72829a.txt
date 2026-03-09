@@ -1,0 +1,1 @@
+12:15:57 | INFO | framework.locators.sign_in_page:login | ✓ Entering password

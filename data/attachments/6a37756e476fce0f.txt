@@ -1,0 +1,1 @@
+12:13:35 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Regulation' (radio option 1/5)</green>

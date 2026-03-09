@@ -1,0 +1,1 @@
+12:16:41 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Smith-Bryan', 'email': 'nnash@example.net', 'deadline_date': '30.05.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

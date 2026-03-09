@@ -1,0 +1,1 @@
+12:12:34 | MANUAL | framework.locators.admin_pages.links_page:sort_by_column | ✓ Sorted by column: Deadline Date

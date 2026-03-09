@@ -1,0 +1,1 @@
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Add Bank Reference/Statement' with dummy file: '/home/runner/work/detelio_autotests/detelio_autotests/dummy_382f5fd1.jpg'</green>

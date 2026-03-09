@@ -1,0 +1,1 @@
+12:15:30 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Decker, Adams and Payne', 'email': 'tylercosta@example.net', 'deadline_date': '19.11.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

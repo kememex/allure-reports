@@ -1,0 +1,9 @@
+12:14:44 | INFO | public.conftest:context | Creating clean context (No Auth)
+12:14:44 | INFO | framework.locators.main_interfaces:open | Opening page SignInPage at https://test.detelio.ai/sign-in
+12:14:44 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignInPage to be loaded
+12:14:45 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)
+12:14:45 | INFO | framework.locators.sign_in_page:login | ✓ Entering username
+12:14:45 | INFO | framework.locators.sign_in_page:login | ✓ Entering password
+12:14:45 | INFO | framework.locators.sign_in_page:login | ✓ Clicking login button
+12:14:46 | INFO | framework.locators.sign_in_page:login | ✓ Verifying login success
+12:14:46 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 400 (Bad Request)

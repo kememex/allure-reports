@@ -1,0 +1,1 @@
+12:13:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Number of years in operation' = '360'</green>

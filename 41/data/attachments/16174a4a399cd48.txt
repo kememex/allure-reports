@@ -1,0 +1,1 @@
+12:14:21 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page

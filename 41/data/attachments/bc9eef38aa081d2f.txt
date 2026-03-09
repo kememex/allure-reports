@@ -1,0 +1,43 @@
+https://test.detelio.ai/verification/1a99391807736b40d877fc00aaca3568508c12ce27e058d973a92fa49672f1e7cb68283e1c91dbe42bdcc161b8fe45f720146f2c3d597d1a4b26de1900396da8
+12:13:06 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+12:13:06 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+12:13:12 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+12:13:12 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Full Corporate Name' = 'Tough why.'</green>
+12:13:14 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Corporate Registration Number' = 'Community.'</green>
+12:13:16 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Date of incorporation/Establishment' = '27/08/1980'</green>
+12:13:17 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Company Telephone Number' = '781375171'</green>
+12:13:19 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Company Website' = 'Detail.'</green>
+12:13:20 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'VAT Number' = 'Five.'</green>
+12:13:23 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Country of Incorporation' = ['Albania']</green>
+12:13:23 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Legal Entity Identifier' = 'Language.'</green>
+12:13:26 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Country' = ['Algeria']</green>
+12:13:26 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'City' = 'Establish.'</green>
+12:13:28 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Postcode ('n/a' if not available)' = 'Central.'</green>
+12:13:29 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Address Line 1' = 'Adult.'</green>
+12:13:31 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Address Line 2' = 'Staff.'</green>
+12:13:33 | INFO | forms.test_corporate_form_fill:test_fill_all_general_fields | <green>✓ Set trading address different = 'No'</green>
+12:13:35 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Regulation' (radio option 1/5)</green>
+12:13:36 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Has the entity ever been subject to an investigation or been fined by the financial regulator?' = True</green>
+12:13:37 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Name of the Financial Regulator' = 'General.'</green>
+12:13:37 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Date of Investigation' = '29/08/2004'</green>
+12:13:38 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Details of Investigation' = 'Certain.'</green>
+12:13:41 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Countries of activities' = ['Albania', 'Algeria', 'Angola']</green>
+12:13:41 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Nature of Business' = 'Over for.'</green>
+12:13:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Number of years in operation' = '360'</green>
+12:13:45 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Types of activities' = 'Fact.'</green>
+12:13:47 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please provide a description of how you intend to use your account': checked option 1/9</green>
+12:13:48 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Type of investments which you intend to undertake': checked option 4/5</green>
+12:13:50 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Which countries will you operate your Prime Brokerage account from?' = ['Afghanistan']</green>
+12:13:51 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected monthly deposit amount (USD Equivalent)' = ['500.000 - 1.000.000']</green>
+12:13:52 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected yearly deposit amount (USD Equivalent)' = ['10.000 - 50.000']</green>
+12:13:53 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected average single deposit amount (USD Equivalent)' = ['250.000 - 500.000']</green>
+12:13:55 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Monthly deposit frequency' = ['5-10 times per month']</green>
+12:13:55 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please indicate what Wallet type you will use for transferring Virtual Financial Assets': checked option 1/4</green>
+12:13:56 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Beneficiary Name' = 'Rebecca Miller'</green>
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Beneficiary Address' = '43611 Elizabeth Forge Suite 849, Steelehaven, DE 08191'</green>
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Bank Name' = 'Hernandez, Faulkner and Carter'</green>
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Bank Address' = 'PSC 1661, Box 7243, APO AP 37987'</green>
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Beneficiary Account Number' = '5'</green>
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'BIC' = 'Own.'</green>
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'International Routing Code' = 'Sense.'</green>
+12:13:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Add Bank Reference/Statement' with dummy file: '/home/runner/work/detelio_autotests/detelio_autotests/dummy_382f5fd1.jpg'</green>

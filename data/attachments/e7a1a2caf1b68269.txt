@@ -1,0 +1,1 @@
+12:14:08 | INFO | forms.test_corporate_form_page:test_corporate_form_loads_correctly | Using workflow link: https://test.detelio.ai/verification/389112b84d34796d9520ba7f221e09ce178a2b5128d29a622f777a038aec1c2d9ffeb3c5eefd25e58c57dc270b8e53ad79e81fc303d2d72a2df0f9745acae35d
