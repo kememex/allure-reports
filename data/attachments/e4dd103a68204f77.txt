@@ -1,0 +1,83 @@
+https://test.detelio.ai/verification/da25a72695d2746258633a4f8274ff16ee56c3c147cd172591c14eecbabcbee4037b09a8f8c4cda228c43265745eb6ff9d465d4e73018c23b68bbdcf9a9df154
+18:36:56 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+18:36:56 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+18:37:02 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+18:37:02 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Full Corporate Name' = 'Enough wife.'</green>
+18:37:04 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Corporate Registration Number' = 'Budget memory fill.'</green>
+18:37:05 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Date of incorporation/Establishment' = '19/11/2006'</green>
+18:37:06 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Company Telephone Number' = '36255445'</green>
+18:37:07 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Company Website' = 'However option.'</green>
+18:37:09 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'VAT Number' = 'Write better.'</green>
+18:37:11 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Country of Incorporation' = ['Andorra']</green>
+18:37:11 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Legal Entity Identifier' = 'Build design fly.'</green>
+18:37:14 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Country' = ['Afghanistan']</green>
+18:37:15 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'City' = 'Rule sense himself.'</green>
+18:37:16 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Postcode ('n/a' if not available)' = 'Expert century.'</green>
+18:37:17 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Address Line 1' = 'Usually without.'</green>
+18:37:19 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Address Line 2' = 'Rule design dinner.'</green>
+18:37:21 | INFO | forms.test_corporate_form_fill:test_fill_all_general_fields | <green>✓ Set trading address different = 'No'</green>
+18:37:22 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Regulation' (radio option 2/5)</green>
+18:37:23 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Has the entity ever been subject to an investigation or been fined by the financial regulator?' = True</green>
+18:37:24 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Name of the Financial Regulator' = 'Low indicate sort.'</green>
+18:37:25 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Date of Investigation' = '03/04/1972'</green>
+18:37:25 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Details of Investigation' = 'Lose media Democrat.'</green>
+18:37:28 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Countries of activities' = ['Afghanistan', 'Angola', 'Algeria']</green>
+18:37:29 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Nature of Business' = 'Serious decade.'</green>
+18:37:30 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Number of years in operation' = '19'</green>
+18:37:31 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Types of activities' = 'Rock same argue.'</green>
+18:37:34 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please provide a description of how you intend to use your account': checked option 7/9</green>
+18:37:35 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Type of investments which you intend to undertake': checked option 4/5</green>
+18:37:36 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Which countries will you operate your Prime Brokerage account from?' = ['Angola']</green>
+18:37:37 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected monthly deposit amount (USD Equivalent)' = ['50.000 - 100.000']</green>
+18:37:38 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected yearly deposit amount (USD Equivalent)' = ['100.000 - 250.000']</green>
+18:37:39 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected average single deposit amount (USD Equivalent)' = ['100.000 - 250.000']</green>
+18:37:40 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Monthly deposit frequency' = ['1-5 times per month']</green>
+18:37:41 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please indicate what Wallet type you will use for transferring Virtual Financial Assets': checked option 1/4</green>
+18:37:42 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Beneficiary Name' = 'Environmental.'</green>
+18:37:42 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Beneficiary Address' = 'Free so month.'</green>
+18:37:42 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Bank Name' = 'Chance table.'</green>
+18:37:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Bank Address' = 'Summer person north.'</green>
+18:37:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Beneficiary Account Number' = 'Administration.'</green>
+18:37:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'BIC' = 'Use enjoy price.'</green>
+18:37:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'International Routing Code' = 'Expect understand.'</green>
+18:37:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Add Bank Reference/Statement' with dummy file: '/home/runner/work/detelio_autotests/detelio_autotests/dummy_b6599605.jpg'</green>
+18:37:43 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Beneficiary Address' = 'Eye we skin through.'</green>
+18:37:45 | INFO | framework.elements.panel_inputs:auto_fill | <green>✓ Auto-filled Bank Account via Side Panel</green>
+18:37:46 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Regulated custodial wallet name' = 'Business may.'</green>
+18:37:47 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Unregulated custodial wallet name' = 'Real staff customer.'</green>
+18:37:49 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Other intended type of investment' = 'Ahead must method.'</green>
+18:37:51 | INFO | framework.elements.base_inputs:fill_nth | <green>✓ Checkbox 'I declare that the wealth of the entity is generated from the following activity(ies):' index 0 checked</green>
+18:37:52 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Name of the employer' = 'Actually order.'</green>
+18:37:54 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Industry of employer' = 'Fear use why though.'</green>
+18:37:55 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Company website if available' = 'Both blue necessary.'</green>
+18:37:57 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Percentage of income generated from Employment' = '9'</green>
+18:38:01 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Country/ies of employer' = ['Angola', 'Albania', 'Afghanistan']</green>
+18:38:02 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please provide evidence i.e. copy of latest payslips, employer confirmation of annual salary, copy of bank statement, latest tax return:' with dummy file: '/home/runner/work/detelio_autotests/detelio_autotests/dummy_be843f6d.jpg'</green>
+18:38:03 | INFO | framework.elements.base_inputs:fill_nth | <green>✓ Checkbox 'I declare that the expected source of funds are generated from the following activity(ies):' index 0 checked</green>
+18:38:04 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Name of the employer' = 'Usually paper seek.'</green>
+18:38:06 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Industry of employer' = 'Interesting long.'</green>
+18:38:07 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Company's website if available' = 'Interview.'</green>
+18:38:09 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Percentage of income generated from Employment' = '14'</green>
+18:38:13 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Country/ies of employer' = ['Angola', 'Andorra', 'Albania']</green>
+18:38:14 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please provide evidence i.e. copy of latest payslips, employer confirmation of annual salary, copy of bank statement, latest tax return:' with dummy file: '/home/runner/work/detelio_autotests/detelio_autotests/dummy_19d1c0f5.jpg'</green>
+18:38:15 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We have read and We understand the content of this Application Form.' set to True</green>
+18:38:15 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'None of the VFAs and FIAT to be invested through the business relationship with Detelio have originated from a Prohibited Country.' set to True</green>
+18:38:16 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'None of the authorised persons, directors, shareholders, ultimate beneficial owners, traders and/or other employees with authority and power to enter into legally binding arrangements on behalf of the Customer are resident in a Prohibited Country. If any of the authorised persons, directors, shareholders, ultimate beneficial owners, traders and/or other employees with authority and power to enter into legally binding arrangements on behalf of the Customer are resident in a Prohibited Country, the Customer represents and warrants that such persons shall not direct, control or coordinate the investment decisions, activities or strategies of the Customer in relation to its dealings with Detelio.' set to True</green>
+18:38:17 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We declare that all statements made on this form/in this Application Form are, to the best of my knowledge and belief, true, correct and complete.' set to True</green>
+18:38:17 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'The funds (FIAT and Digital Assets) to be invested through the business relationship with Detelio do not form proceeds of crime.' set to True</green>
+18:38:18 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'The funds (FIAT and Digital Assets) to be withdrawn from Detelio will not be destined to fund terrorism or terrorist attacks.' set to True</green>
+18:38:18 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'The funds (FIAT and Digital Assets) used within the business relationship with Detelio have been duly declared/will be duly declared to relevant taxation authorities and have been treated correctly in accordance with applicable tax laws.' set to True</green>
+18:38:19 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'The persons completing this Application Form warrant that we have full power and authority to open and operate the Account(s) for and on behalf of the entity, in accordance with the articles and memorandum of association and/or any other constitutional documents and/or any other authorisation granted by such entity or its management body, without breach of any law, restriction or obligation binding on the entity.' set to True</green>
+18:38:19 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'Detelio is hereby requested and authorised to open an Account(s) for us for the purposes of transacting and subscribing to the services and products of Detelio according to the relevant terms and conditions.' set to True</green>
+18:38:20 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We declare that we will provide all such information, documentation and data as may be requested by Detelio from time to time to satisfy the customer acceptance process, policies and procedures applicable from time to time and to comply with legal and regulatory requirements. We acknowledge that failure to provide such information, documentation or data may result in Detelio refusing to provide services and that I may be prohibited from withdrawing my funds (FIAT/Digital Assets) unless Detelio is satisfied with the due diligence provided.' set to True</green>
+18:38:21 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'Where the Account holder is a collective investment scheme, we confirm that the underlying CDD documentation on the investors, including for the avoidance of doubt the ultimate beneficial owners and any supporting documentation to verify the identity of the client or the ultimate beneficial owner of the investors and their source of funds and source of wealth will be made available to you, upon request.' set to True</green>
+18:38:21 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We undertake to update Detelio of any changes to the information provided without delay.' set to True</green>
+18:38:22 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'Neither the directors, authorised signatory, shareholders (whether direct or indirect) nor Ultimate Beneficial Owner is/are subject to a civil or criminal investigation into their Source of Funds or any asset freezing order.' set to True</green>
+18:38:22 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We give explicit consent to Detelio to retain and process any personal information and that of the entity, its shareholders, directors, authorised persons in accordance with the terms of the Privacy Policy of Detelio Prime.' set to True</green>
+18:38:23 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We acknowledge and agree that information contained in this Application Form and information regarding the account(s) set out above may be reported to the tax authorities and that those tax authorities or Detelio may provide the information to such tax authorities and/or law enforcement agencies.' set to True</green>
+18:38:24 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'The persons signing this Application Form are authorised to do so for and on behalf of the Company or Partnership to do all acts, execute all documents, perform and enter into all agreements necessary or incidental for and on behalf of the entity, for the purposes of opening and/or operating the Account(s) with Detelio.' set to True</green>
+18:38:24 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We hereby consent and agree for Detelio to share a copy of our bank statement and/or any other document with its banking and payment services partners as part of their AML/CFT requirements.' set to True</green>
+18:38:25 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We accept and agree to be bound by the Terms of Business of Detelio Prime and consent to such Terms of Business, including future updates to such Terms of Business to be provided to us by way of posting them on the website of Detelio.' set to True</green>
+18:38:25 | INFO | framework.locators.form_pages.form_sections:check_all | <green>✓ All declarations checked</green>
+18:38:27 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button
+18:38:28 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_invalid_sections | Found invalid sections: []

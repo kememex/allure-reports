@@ -1,0 +1,1 @@
+18:38:18 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'The funds (FIAT and Digital Assets) used within the business relationship with Detelio have been duly declared/will be duly declared to relevant taxation authorities and have been treated correctly in accordance with applicable tax laws.' set to True</green>

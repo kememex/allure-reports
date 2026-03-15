@@ -1,0 +1,1 @@
+18:38:22 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'Neither the directors, authorised signatory, shareholders (whether direct or indirect) nor Ultimate Beneficial Owner is/are subject to a civil or criminal investigation into their Source of Funds or any asset freezing order.' set to True</green>

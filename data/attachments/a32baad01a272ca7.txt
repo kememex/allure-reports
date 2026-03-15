@@ -1,0 +1,1 @@
+18:38:15 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'None of the VFAs and FIAT to be invested through the business relationship with Detelio have originated from a Prohibited Country.' set to True</green>

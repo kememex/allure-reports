@@ -1,0 +1,1 @@
+18:38:09 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Percentage of income generated from Employment' = '14'</green>

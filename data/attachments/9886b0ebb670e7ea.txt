@@ -1,0 +1,3 @@
+18:38:28 | INFO | forms.test_corporate_form_page:test_corporate_form_loads_correctly | Using workflow link: https://test.detelio.ai/verification/406c9d6de2dd49faf6ed5262dcc4d6a1471482336f4a56685f302f779e2ab543bbda2258053ed55cfd0dea6eb064c3d0725e1cd44ca9c06dcbff8f6b225e1e50
+18:38:28 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+18:38:28 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page

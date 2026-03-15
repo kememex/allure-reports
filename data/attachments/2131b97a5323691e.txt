@@ -1,0 +1,1 @@
+18:38:03 | INFO | framework.elements.base_inputs:fill_nth | <green>✓ Checkbox 'I declare that the expected source of funds are generated from the following activity(ies):' index 0 checked</green>

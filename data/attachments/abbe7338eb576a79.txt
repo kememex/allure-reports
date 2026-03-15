@@ -1,0 +1,1 @@
+18:38:22 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We give explicit consent to Detelio to retain and process any personal information and that of the entity, its shareholders, directors, authorised persons in accordance with the terms of the Privacy Policy of Detelio Prime.' set to True</green>

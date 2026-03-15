@@ -1,0 +1,1 @@
+18:38:17 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We declare that all statements made on this form/in this Application Form are, to the best of my knowledge and belief, true, correct and complete.' set to True</green>

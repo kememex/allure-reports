@@ -1,0 +1,1 @@
+18:38:17 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'The funds (FIAT and Digital Assets) to be invested through the business relationship with Detelio do not form proceeds of crime.' set to True</green>

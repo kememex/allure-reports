@@ -1,0 +1,1 @@
+18:39:23 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for SignUpPage to be loaded

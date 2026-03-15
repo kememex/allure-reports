@@ -1,0 +1,1 @@
+18:39:00 | INFO | framework.elements.base_inputs:select_date_via_calendar | <green>✓ Selected day 1 via calendar for Date of incorporation/Establishment</green>

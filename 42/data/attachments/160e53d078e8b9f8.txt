@@ -1,0 +1,5 @@
+18:39:37 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+18:39:37 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+18:39:40 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Kayla Wright[0m
+18:39:41 | MANUAL | framework.locators.admin_pages.links_page:clear_search | [32m✓ Cleared search[0m
+18:39:41 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Randall Ltd[0m

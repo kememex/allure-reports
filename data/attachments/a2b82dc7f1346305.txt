@@ -1,0 +1,1 @@
+18:38:14 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please provide evidence i.e. copy of latest payslips, employer confirmation of annual salary, copy of bank statement, latest tax return:' with dummy file: '/home/runner/work/detelio_autotests/detelio_autotests/dummy_19d1c0f5.jpg'</green>

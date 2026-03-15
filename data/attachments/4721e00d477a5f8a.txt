@@ -1,0 +1,1 @@
+18:38:25 | INFO | framework.locators.form_pages.form_sections:check_all | <green>✓ All declarations checked</green>

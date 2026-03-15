@@ -1,0 +1,1 @@
+18:37:51 | INFO | framework.elements.base_inputs:fill_nth | <green>✓ Checkbox 'I declare that the wealth of the entity is generated from the following activity(ies):' index 0 checked</green>

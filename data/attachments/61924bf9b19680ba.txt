@@ -1,0 +1,1 @@
+18:40:48 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button

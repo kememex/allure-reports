@@ -1,0 +1,1 @@
+18:37:41 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Please indicate what Wallet type you will use for transferring Virtual Financial Assets': checked option 1/4</green>

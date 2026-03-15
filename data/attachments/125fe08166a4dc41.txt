@@ -1,0 +1,1 @@
+18:40:54 | MANUAL | admin.conftest:generate_link_info | Generated natural_person link info: {'first_name': 'Shelby', 'last_name': 'Walton', 'email': 'jgriffin@example.com', 'deadline_date': '14.08.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

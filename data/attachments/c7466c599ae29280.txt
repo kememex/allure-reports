@@ -1,0 +1,1 @@
+18:41:00 | INFO | framework.locators.admin_pages.admin_modals:fill_company_name | <green>✓ Filled company name: Hill, Owens and Burke</green>

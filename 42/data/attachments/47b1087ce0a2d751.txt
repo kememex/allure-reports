@@ -1,0 +1,1 @@
+18:38:41 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_invalid_tabs | Found invalid tabs: ['General', '0%', 'Persons', '0%', 'Documents', '0%', 'FATCA and CRS', '0%']

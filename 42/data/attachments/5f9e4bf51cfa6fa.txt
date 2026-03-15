@@ -1,0 +1,1 @@
+18:36:11 | MANUAL | framework.locators.admin_pages.links_page:select_search_option | ✓ Selected search option: Email

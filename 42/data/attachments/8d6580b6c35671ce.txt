@@ -1,0 +1,6 @@
+18:38:33 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for CorporateGeneralPage to be loaded
+18:38:33 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page
+18:38:40 | INFO | framework.locators.form_pages.corporate_form.corporate_page:submit_application | Clicking Submit Application button
+18:38:41 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_invalid_tabs | Found invalid tabs: ['General', '0%', 'Persons', '0%', 'Documents', '0%', 'FATCA and CRS', '0%']
+18:38:41 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_invalid_sections | Found invalid sections: ['Company Basic Information', 'Registered Address', 'Company Trading Address', 'Regulation', 'Nature of Business', 'Purpose and Anticipated Level of Business with Detelio', 'Source of Wealth', 'Source of Funds', 'Declarations and Consents', 'Capacity', 'Additional information']
+18:38:41 | INFO | framework.locators.form_pages.corporate_form.corporate_page:get_all_sections | Found 11 sections on the page

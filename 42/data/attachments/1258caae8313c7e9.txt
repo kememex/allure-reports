@@ -1,0 +1,1 @@
+18:36:16 | MANUAL | framework.locators.admin_pages.links_page:clear_search | ✓ Cleared search

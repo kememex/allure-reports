@@ -1,0 +1,1 @@
+18:39:26 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded

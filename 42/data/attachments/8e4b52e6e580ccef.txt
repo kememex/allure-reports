@@ -1,0 +1,1 @@
+18:38:15 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We have read and We understand the content of this Application Form.' set to True</green>

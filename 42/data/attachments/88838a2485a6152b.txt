@@ -1,0 +1,1 @@
+18:37:39 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected average single deposit amount (USD Equivalent)' = ['100.000 - 250.000']</green>

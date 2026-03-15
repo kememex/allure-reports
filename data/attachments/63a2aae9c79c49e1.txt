@@ -1,0 +1,1 @@
+18:37:23 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Has the entity ever been subject to an investigation or been fined by the financial regulator?' = True</green>

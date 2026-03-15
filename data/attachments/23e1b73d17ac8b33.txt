@@ -1,0 +1,1 @@
+18:35:51 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for AdminPage to be loaded

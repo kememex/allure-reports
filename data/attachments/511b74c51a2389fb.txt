@@ -1,0 +1,1 @@
+18:39:06 | ERROR | framework.utils.browser_factory:handle_console | Browser Console error: Failed to load resource: the server responded with a status of 401 (Unauthorized)

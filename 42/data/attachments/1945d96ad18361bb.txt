@@ -1,0 +1,3 @@
+18:39:32 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+18:39:32 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+18:39:33 | MANUAL | framework.locators.admin_pages.links_page:search_links | [32m✓ Search: Ran[0m

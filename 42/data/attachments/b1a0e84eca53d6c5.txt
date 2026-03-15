@@ -1,0 +1,1 @@
+18:38:21 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We undertake to update Detelio of any changes to the information provided without delay.' set to True</green>

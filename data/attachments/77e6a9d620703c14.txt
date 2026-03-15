@@ -1,0 +1,1 @@
+18:37:47 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Unregulated custodial wallet name' = 'Real staff customer.'</green>

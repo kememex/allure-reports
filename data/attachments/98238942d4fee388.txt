@@ -1,0 +1,1 @@
+18:40:59 | MANUAL | admin.conftest:generate_link_info | Generated company link info: {'company_name': 'Hill, Owens and Burke', 'email': 'robert99@example.net', 'deadline_date': '14.10.2026'} | {'product': 'autotest_product', 'entity': 'test_comp'}

@@ -1,0 +1,1 @@
+18:37:21 | INFO | forms.test_corporate_form_fill:test_fill_all_general_fields | <green>✓ Set trading address different = 'No'</green>

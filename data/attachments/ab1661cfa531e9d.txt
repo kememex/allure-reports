@@ -1,0 +1,1 @@
+18:39:26 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links

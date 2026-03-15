@@ -1,0 +1,1 @@
+18:37:37 | INFO | framework.elements.base_inputs:auto_fill | <green>✓ Auto-filled 'Expected monthly deposit amount (USD Equivalent)' = ['50.000 - 100.000']</green>

@@ -1,0 +1,1 @@
+18:38:24 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We hereby consent and agree for Detelio to share a copy of our bank statement and/or any other document with its banking and payment services partners as part of their AML/CFT requirements.' set to True</green>

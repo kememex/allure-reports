@@ -1,0 +1,1 @@
+18:41:08 | INFO | framework.locators.admin_pages.workflow_page:generate_new_form | Generating form with {'company_name': 'Marsh, Parker and Jones', 'email': 'user@.com', 'deadline_date': '19.10.2026', 'product': 'autotest_product', 'entity': 'test_comp'}

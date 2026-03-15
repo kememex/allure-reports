@@ -1,0 +1,4 @@
+18:36:24 | INFO | framework.locators.main_interfaces:open | Opening page LinksPage at https://test.detelio.ai/workflows/links
+18:36:25 | INFO | framework.locators.main_interfaces:wait_loaded | Waiting for LinksPage to be loaded
+18:36:26 | MANUAL | framework.locators.admin_pages.links_page:sort_by_column | [32m✓ Sorted by column: Deadline Date[0m
+18:36:26 | MANUAL | framework.locators.admin_pages.links_page:sort_by_column | [32m✓ Sorted by column: Deadline Date[0m

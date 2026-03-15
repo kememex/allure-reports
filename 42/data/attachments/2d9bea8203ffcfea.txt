@@ -1,0 +1,1 @@
+18:38:25 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'We accept and agree to be bound by the Terms of Business of Detelio Prime and consent to such Terms of Business, including future updates to such Terms of Business to be provided to us by way of posting them on the website of Detelio.' set to True</green>

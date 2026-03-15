@@ -1,0 +1,1 @@
+18:38:19 | INFO | framework.elements.base_inputs:fill | <green>✓ Checkbox 'Detelio is hereby requested and authorised to open an Account(s) for us for the purposes of transacting and subscribing to the services and products of Detelio according to the relevant terms and conditions.' set to True</green>
